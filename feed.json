@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24T22:03:13.835Z",
+  "generated": "2026-10-24T22:03:46.590Z",
   "subreddits": [
     "LocalLLaMA",
     "AI_Agents",
@@ -234,7 +234,7 @@
       "title": "ALL EYES ON ME",
       "url": "https://www.reddit.com/r/AI_Agents/comments/1xej48p/all_eyes_on_me/",
       "published": "2026-10-24T20:33:43+00:00",
-      "age_hours": 1,
+      "age_hours": 2,
       "snippet": "built this thing and just want some real eyes on it (ifykyk), no mater how much you ask your agent to do security audit, i’ll never match a real security researcher with an ai agent. link in comments as per rules thanks for your attention mate! &#32;"
     },
     {
@@ -242,7 +242,7 @@
       "title": "I made a game about agent drift. How did it feel, and where did your agent stop?",
       "url": "https://www.reddit.com/r/AI_Agents/comments/1xej40r/i_made_a_game_about_agent_drift_how_did_it_feel/",
       "published": "2026-10-24T20:33:28+00:00",
-      "age_hours": 1,
+      "age_hours": 2,
       "snippet": "I made a short game to let you feel agent drift instead of reading about it. Video in the comments. Two things I’d like to learn from you: How did it feel to play? Where did you first say NO? If you run it on your own agent, what did it do? The video description has a prompt that runs the game on subagents. Reply with the line it prints. &#32;"
     },
     {
@@ -418,7 +418,7 @@
       "title": "LiteLLM’s root-cause report: the key behind the Oct 21 release attack was leaked on May 27 and never",
       "url": "https://www.reddit.com/r/Python/comments/1xehnro/litellms_rootcause_report_the_key_behind_the_oct/",
       "published": "2026-10-24T19:33:34+00:00",
-      "age_hours": 2,
+      "age_hours": 3,
       "snippet": "https://youtu.be/vxE3XbcLCa8 LiteLLM published its root-cause report on Oct 23. According to LiteLLM, a master key for its Agent Platform was committed publicly on May 27. The team found the leak and rewrote the commit, but the key wasn’t revoked. LiteLLM says the attacker used that key on Oct 10 to get a GitHub org owner’s token, then took two maintainers’ tokens. Branch protections were disable"
     },
     {
