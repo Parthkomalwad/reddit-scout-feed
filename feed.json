@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-29T18:34:45.935Z",
+  "generated": "2026-10-30T18:07:11.229Z",
   "subreddits": [
     "LocalLLaMA",
     "AI_Agents",
@@ -14,803 +14,803 @@
   "errors": {},
   "posts": [
     {
-      "subreddit": "LocalLLM",
-      "title": "minutes of a five-person NASA podcast transcribed with speaker labels on an M5 Ultra in 394.7 s, 4.88% WER against NASA's own transcript (MOSS-Transcribe-Diarize)",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1xis762/minutes_of_a_fiveperson_nasa_podcast_transcribed/",
-      "published": "2026-10-29T18:34:34+00:00",
+      "subreddit": "ClaudeAI",
+      "title": "New Ultra plan has half the usage of the previous 20x plan",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjmpbk/new_ultra_plan_has_half_the_usage_of_the_previous/",
+      "published": "2026-10-30T18:05:29+00:00",
       "age_hours": 0,
-      "snippet": "One 0.9B model on my Mac Studio took 394.7 s to do the transcript and the speaker labels for the first 30 minutes of a NASA podcast episode with five people talking. That&#39;s about 4.6x faster than real time, with no VAD and no separate diarization model. It&#39;s NASA&#39;s Johnson Space Center podcast, episode 374, where the host talks Mission Control communications with four flight controlle"
+      "snippet": "https://preview.redd.it/v5wxidju8nyh1.png?width=1107&amp;format=png&amp;auto=webp&amp;s=ce1e3e1236db41c50c86f924aca06369b3356b1b Since the new &#39;Ultra&#39; subscription model came out, I thought I would take a look at the details online. Ostensibly, this update has just halved limits from 20x the pro plan to 10x the pro plan. This seems pretty bizarre to me considering I, and many others, just"
+    },
+    {
+      "subreddit": "selfhosted",
+      "title": "DCM is now a TUI called self-host - you'll never guess what it does",
+      "url": "https://www.reddit.com/r/selfhosted/comments/1xjmitu/dcm_is_now_a_tui_called_selfhost_youll_never/",
+      "published": "2026-10-30T17:58:56+00:00",
+      "age_hours": 0,
+      "snippet": "Hello everyone, I&#39;ve been maintaining Homarr and got frustrated writing Docker compose files to test homarr integrations all the time, so I built Docker Compose Maker (compose.ajnart.dev) in October 2025. Now one year later I am presenting you self-host.fyi, the evolution of DCM. Self-host is a complete re-write and addition to DCM, it is a simple binary that works for linux, mac, wsl2 &amp;"
+    },
+    {
+      "subreddit": "AI_Agents",
+      "title": "I replaced my agent orchestrator with a message board and the bots coordinated on their own",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1xjmgx4/i_replaced_my_agent_orchestrator_with_a_message/",
+      "published": "2026-10-30T17:56:51+00:00",
+      "age_hours": 0,
+      "snippet": "TL;DR: I run multiple coding agent sessions (Claude Code, Codex, Copilot) and coordinating them was a pain, so I built bot_board a self-hosted message board where bots are free to collaborate and manage project context like institutional knowledge. It’s mostly harness-agnostic. I use it daily, my bots run around the clock on various tasks, and I get a lot more done. It&#39;s open source. If you r"
+    },
+    {
+      "subreddit": "LocalLLaMA",
+      "title": "datalab-to/surya-ocr-2.5 · Hugging Face",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjmfxb/datalabtosuryaocr25_hugging_face/",
+      "published": "2026-10-30T17:55:46+00:00",
+      "age_hours": 0,
+      "snippet": "Surya is a 689M param OCR model with these features: Accuracy - scores 85.9 on OmniParseBench , the highest of the open models under 1B parameters we have scored, and 83.7% on olmOCR-bench Speed - throughput of 4.5 pages/s on one H100 at 192 DPI, 1.7x Surya 2 with MTP (see Throughput ) Multilingual - scores 74.9% on an internal benchmark set of 91 languages (more here ) Layout analysis (table, im"
+    },
+    {
+      "subreddit": "LocalLLaMA",
+      "title": "Club 3090 documentations is very noisy. What is the best option for single 3090 and 32gb ram ?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjmcj7/club_3090_documentations_is_very_noisy_what_is/",
+      "published": "2026-10-30T17:52:07+00:00",
+      "age_hours": 0,
+      "snippet": "Hi, I been following club 3090 for a while but I feel the documentation isn&#39;t helping much in discovering whats possible. I know its AI generated and thats fine but there is lots of noise and duplication and outdated stuff. Can some of you guys share what are you using at the moment that yelds you best results ? &#32;"
+    },
+    {
+      "subreddit": "selfhosted",
+      "title": "Fabricator: self-hosted Minecraft server panel with Modrinth built in",
+      "url": "https://www.reddit.com/r/selfhosted/comments/1xjmbsu/fabricator_selfhosted_minecraft_server_panel_with/",
+      "published": "2026-10-30T17:51:24+00:00",
+      "age_hours": 0,
+      "snippet": "Browse mods I’ve been building Fabricator, a web panel for running Minecraft servers on your own hardware. It runs on your Linux box with no account, no cloud service and no telemetry. Your servers, worlds and backups stay on your machine. You install mods from Modrinth inside the panel, with no SFTP and no matching loader versions by hand. It supports Fabric, Quilt, NeoForge, Forge, Paper, Purpu"
+    },
+    {
+      "subreddit": "AI_Agents",
+      "title": "We built a way to ask hundreds of real personal agents a question. What would you ask them?",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1xjm6ji/we_built_a_way_to_ask_hundreds_of_real_personal/",
+      "published": "2026-10-30T17:46:08+00:00",
+      "age_hours": 0,
+      "snippet": "Founder here, looking for honest feedback from people building agents/related products. Moonlit lets people connect their own agent (Claude, ChatGPT, Grok, Gemini, custom MCP clients) to answer research questions on their behalf. Each agent answers using its user&#39;s real context, like their purchases, subscriptions and the tools they use, and the person approves every answer before it&#39;s se"
     },
     {
       "subreddit": "LocalLLM",
-      "title": "Upgraded from RX 9070 XT (16GB, ROCm) to RTX 5090 (32GB, CUDA) on CachyOS Linux — 236 tok/s Decode & 6,272 tok/s Prefill on Qwen3.8-Flash-Next (IQ3_S) in Strata",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1xis634/upgraded_from_rx_9070_xt_16gb_rocm_to_rtx_5090/",
-      "published": "2026-10-29T18:33:23+00:00",
+      "title": "What’s limiting GPU supply through 2027 is mostly memory, packaging and power",
+      "url": "https://www.reddit.com/r/LocalLLM/comments/1xjm3km/whats_limiting_gpu_supply_through_2027_is_mostly/",
+      "published": "2026-10-30T17:42:59+00:00",
       "age_hours": 0,
-      "snippet": "I just upgraded my local AI &amp; gaming rig from an AMD Radeon RX 9070 XT (16 GB) to an NVIDIA GeForce RTX 5090 (32 GB) on CachyOS Linux (without reinstalling the OS). Before pulling out the AMD card, I wrote a custom Python benchmark harness (`strata-bench.py`) to record exact baseline numbers across multiple prompt lengths (uncached) alongside hardware telemetry (VRAM, host RAM, power draw, th"
+      "snippet": "Was deciding whether to buy now or wait for prices to drop, so I read up on what’s constraining GPU supply. Most of it isn’t demand, it’s a few physical limits further down the stack. Three main ones: Memory: The HBM stacked next to the compute die is the tightest. Micron has reportedly sold 75%+ of its 2027 output, and HBM4 for next-gen cards is only now qualifying across the three makers (SK hy"
     },
     {
       "subreddit": "ClaudeAI",
-      "title": "I built Baton with Claude Code: a shared task board my Claude Code accounts use to hand work to each other at usage and context limits",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xis53s/i_built_baton_with_claude_code_a_shared_task/",
-      "published": "2026-10-29T18:32:16+00:00",
+      "title": "I built a kid-friendly platform for AI-coded games with Claude, and I just launched it!",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjm29s/i_built_a_kidfriendly_platform_for_aicoded_games/",
+      "published": "2026-10-30T17:41:36+00:00",
       "age_hours": 0,
-      "snippet": "What I built. I run two Claude Code accounts on one large project. Whenever one hit its 5-hour limit or filled its context mid-task, I had to ask it for a handover document, switch accounts and paste it in, and details got lost. Baton is a small task board the sessions use themselves: Each session claims its own task, so both accounts work in parallel and never on the same thing. When an account"
+      "snippet": "After constantly coming across stories about Roblox and online safety concerns, and having kids of my own, I started thinking about whether there could be a better place for children to discover and play games. My 6yo son absolutely loves the Steve’s Delivery Service game I made for him for what you’d consider the GameBoy, based on a LEGO character he originally created. My 4yo daughter then want"
     },
     {
-      "subreddit": "LocalLLaMA",
-      "title": "Free web search for my local agent stopped working. What are you paying per 1,000 queries now?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xis2qz/free_web_search_for_my_local_agent_stopped/",
-      "published": "2026-10-29T18:29:47+00:00",
+      "subreddit": "selfhosted",
+      "title": "How to orchestrate backups of docker bind mounts",
+      "url": "https://www.reddit.com/r/selfhosted/comments/1xjm2vi/how_to_orchestrate_backups_of_docker_bind_mounts/",
+      "published": "2026-10-30T17:42:15+00:00",
       "age_hours": 0,
-      "snippet": "My research agent ran on a free search API for months until every call started failing last week and the SearXNG box I set up instead keeps getting its Google and Bing engines suspended for captchas, so I&#39;m going to have to pay for one. It&#39;s maybe 3,000 to 5,000 searches a month, mostly docs and GitHub issues and I&#39;d like snippets plus the page text when a result looks useful. The sea"
-    },
-    {
-      "subreddit": "LocalLLM",
-      "title": "Hey r/LocalLLM! I need your help to solve your problems, using local models",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1xirtek/hey_rlocalllm_i_need_your_help_to_solve_your/",
-      "published": "2026-10-29T18:20:10+00:00",
-      "age_hours": 0,
-      "snippet": "Hi r/LocalLLM ! I&#39;m the solo developer of the open-source ObserverAI framework and I need your help to identify the most painful problems that you&#39;ve had, that you think can be solved by using local models to monitor stuff. My personal pain that led me to build this, was monitoring crashing simulations. Because it costs me compute time (a lot of time paid)! But that&#39;s admittedly niche"
-    },
-    {
-      "subreddit": "LocalLLaMA",
-      "title": "Datapoint for AI bubble: getting harder to raise money for AI datacenters",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xirt93/datapoint_for_ai_bubble_getting_harder_to_raise/",
-      "published": "2026-10-29T18:20:00+00:00",
-      "age_hours": 0,
-      "snippet": "Will this lower our RAM prices for local? https://x.com/HedgieMarkets/status/2115505986504954244 https://www.bloomberg.com/news/articles/2026-10-28/wall-street-s-ai-debt-machine-is-starting-to-choke-on-supply https://x.com/elonmusk/status/2114434646914068862 Quote from Elon: ... That means the 200+ neoclouds are going to see guppy-level death and consolidation. ... Trivia: neocloud = new cloud ="
-    },
-    {
-      "subreddit": "LocalLLaMA",
-      "title": "Hey r/LocalLLaMA! I need your help to solve your problems, using local models",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xirrlz/hey_rlocalllama_i_need_your_help_to_solve_your/",
-      "published": "2026-10-29T18:18:19+00:00",
-      "age_hours": 0,
-      "snippet": "Hi r/LocalLLaMA ! I&#39;m the solo developer of the open-source ObserverAI framework and I need your help to identify the most painful problems that you&#39;ve had, that you think can be solved by Observer using local models. My personal pain that led me to build this, was monitoring crashing simulations. Because it costs me compute time (a lot of time paid)! But that&#39;s admittedly niche. Prob"
+      "snippet": "Hi there, I have my docker compose volumes as bind mounts, in that way I can manage the storage as I prefer. I got the point that the best way to orchestrate the backup execution of all the compose stacks would be: - Get into each docker compose directory - Stop the containers - Execute backup of the bind mount dir/dirs - Start back the containers Potentially each container may have different way"
     },
     {
       "subreddit": "LocalLLM",
-      "title": "For those interested in exploring LLM latent space, have a look at my tool for Gemma4-31b: Logos Theodolite. Aesthetic appropriate for our new Age of Discovery.",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1xiro0f/for_those_interested_in_exploring_llm_latent/",
-      "published": "2026-10-29T18:14:34+00:00",
+      "title": "Built with Claude Code: an AI sports show where 8 models judge each other blind",
+      "url": "https://www.reddit.com/r/LocalLLM/comments/1xjm2hg/built_with_claude_code_an_ai_sports_show_where_8/",
+      "published": "2026-10-30T17:41:51+00:00",
+      "age_hours": 0,
+      "snippet": "I built this myself with Claude Code (Opus 5.5, high effort) doing the orchestration. It&#39;s a short comedy show where 8 AI models compete in three events and other models judge with the names hidden. What Claude Code did: ran the league (sent every prompt to every model and logged every answer and cent), set up the judging panel, built a bot that plays each game in a browser, and rendered the"
+    },
+    {
+      "subreddit": "golang",
+      "title": "Five Go exercises worth trying",
+      "url": "https://www.reddit.com/r/golang/comments/1xjlyx8/five_go_exercises_worth_trying/",
+      "published": "2026-10-30T17:38:09+00:00",
       "age_hours": 0,
       "snippet": "&#32;"
     },
     {
-      "subreddit": "selfhosted",
-      "title": "GoModel - alternative to LiteLLM AI gateway",
-      "url": "https://www.reddit.com/r/selfhosted/comments/1xircvc/gomodel_alternative_to_litellm_ai_gateway/",
-      "published": "2026-10-29T18:03:14+00:00",
+      "subreddit": "ClaudeAI",
+      "title": "Anthropic renames Max5 and Max20 and removes 5h limits for Max20",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjlvlc/anthropic_renames_max5_and_max20_and_removes_5h/",
+      "published": "2026-10-30T17:34:41+00:00",
       "age_hours": 1,
-      "snippet": "Last week, LiteLLM was compromised again. This encouraged me to post a little more about my project, because I believe that people are looking for an alternative right now. GoModel is an open-source, self-hosted AI gateway OR a more efficient LiteLLM OR a self-hosted OpenRouter. It sits between your apps/agents/teams and LLM providers giving you one API for all of them + observability, budgets, g"
-    },
-    {
-      "subreddit": "AI_Agents",
-      "title": "EU phone numbers + AI voice agents. what actually works?",
-      "url": "https://www.reddit.com/r/AI_Agents/comments/1xirchu/eu_phone_numbers_ai_voice_agents_what_actually/",
-      "published": "2026-10-29T18:02:50+00:00",
-      "age_hours": 1,
-      "snippet": "c ontext: Need a real European phone number (DE/FR/ES/UK. Not US with an EU prefix) AI voice agent handling inbound calls (booking, support, etc.) SignalWire is out as they don&#39;t provision EU numbers No softphone : I don&#39;t want to run Zoiper/Linphone on a VPS or do WebRTC bridging. Prefer a native SIP trunk or a platform that owns the telephony layer. What are you running in production? A"
-    },
-    {
-      "subreddit": "AI_Agents",
-      "title": "Banking agentic system doubt 😅",
-      "url": "https://www.reddit.com/r/AI_Agents/comments/1xir9xg/banking_agentic_system_doubt/",
-      "published": "2026-10-29T18:00:18+00:00",
-      "age_hours": 1,
-      "snippet": "suppose you are in a bank and you are building agentic stuff over there. So basically the question is right now, any agentic system will have a human in the loop feedback, right? So the problem is human in the loop may have many humans. So our agent, whenever it gets a human in the loop condition, it should decide which human to forward one specific decision to. Like one such case to be solved by"
-    },
-    {
-      "subreddit": "mcp",
-      "title": "MCP Events bridge: turn any webhook into an MCP event (open source, built on Hookdeck Event Gateway)",
-      "url": "https://www.reddit.com/r/mcp/comments/1xir82m/mcp_events_bridge_turn_any_webhook_into_an_mcp/",
-      "published": "2026-10-29T17:58:28+00:00",
-      "age_hours": 1,
-      "snippet": "I posted an early version of this here three weeks ago ( https://www.reddit.com/r/mcp/comments/1wz9ta5/ ). Since then I&#39;ve added what I said I would: more webhook sources, local agents, and a workaround for clients without MCP Events, a Claude Code plugin. MCP Events (SEP-3415, still a draft) lets an agent subscribe to an MCP server&#39;s events instead of waiting for a prompt. ChatGPT suppor"
-    },
-    {
-      "subreddit": "LocalLLM",
-      "title": "Anyone tried this yet?",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1xir37t/anyone_tried_this_yet/",
-      "published": "2026-10-29T17:53:29+00:00",
-      "age_hours": 1,
-      "snippet": "https://preview.redd.it/nxiuqgeq2gyh1.png?width=1153&amp;format=png&amp;auto=webp&amp;s=d0bb50dca2316739ccd4b96ce90f0a0297b60f4d Just kind of curious if anyone else has explored this option? Had these laying around so I figured I&#39;d give it a go. What do you think? This isn&#39;t meant to do any REAL work - just to see if it can be done and generate anything of-use. Purely experimental. &#32;"
+      "snippet": "yay &#32;"
     },
     {
       "subreddit": "ClaudeAI",
-      "title": "What was the most concerning thing Claude has ever said to you?",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xir1s1/what_was_the_most_concerning_thing_claude_has/",
-      "published": "2026-10-29T17:51:56+00:00",
-      "age_hours": 1,
-      "snippet": "Hallucinations, breach of privacy protocols, etc. &#32;"
-    },
-    {
-      "subreddit": "AI_Agents",
       "title": "[ Removed by Reddit ]",
-      "url": "https://www.reddit.com/r/AI_Agents/comments/1xir2hr/removed_by_reddit/",
-      "published": "2026-10-29T17:52:39+00:00",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjluhp/removed_by_reddit/",
+      "published": "2026-10-30T17:33:33+00:00",
       "age_hours": 1,
       "snippet": "[ Removed by Reddit on account of violating the content policy . ] &#32;"
     },
     {
-      "subreddit": "LocalLLM",
-      "title": "Harness recommendations",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1xir1zn/harness_recommendations/",
-      "published": "2026-10-29T17:52:07+00:00",
-      "age_hours": 1,
-      "snippet": "Currently using Hermes agent (and Zed for small code tasks) on local Tabbyapi Qwen flash next. I am completely unsatisfied with Hermes Agent, with all due respect to what Nous did in the early days. I always have problems with the nix/home-manager implementation (bad option definitions, etc. if you fix one you get the next problem). To me it seems to vibe coded (some features implemented without"
-    },
-    {
       "subreddit": "ClaudeAI",
-      "title": "Claude Reset",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xiqxxv/claude_reset/",
-      "published": "2026-10-29T17:47:49+00:00",
+      "title": "How are you handling MCP tools that can modify real data?",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjlu17/how_are_you_handling_mcp_tools_that_can_modify/",
+      "published": "2026-10-30T17:33:06+00:00",
       "age_hours": 1,
-      "snippet": "Anyone else just get a Reset that expires on Nov 30? &#32;"
+      "snippet": "I&#39;ve been looking into MCP integration to go beyond searching documents or retrieving info. For example, connecting Claude to a CRM, analytics platform, or another business system where it can create or update records. I&#39;m wondering how people are handling the permission side of this. Are you giving Claude read-only access by default, or are you enabling write actions selectively, or are"
     },
     {
       "subreddit": "LocalLLM",
-      "title": "Why you can't trust cloud API endpoints: 40 days of coding-agent telemetry showing the exact day providers silently overwrote deepseek-v4.1-flash with -1017 (\"faster execution, shorter answers\" = 3x more swearing and 6.7x more model switches)",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1xiqwy0/why_you_cant_trust_cloud_api_endpoints_40_days_of/",
-      "published": "2026-10-29T17:46:48+00:00",
+      "title": "Minilab with RPis and 2x GB10 Cluster",
+      "url": "https://www.reddit.com/r/LocalLLM/comments/1xjlu27/minilab_with_rpis_and_2x_gb10_cluster/",
+      "published": "2026-10-30T17:33:08+00:00",
       "age_hours": 1,
-      "snippet": "&#32;"
+      "snippet": "Dual node ASUS Ascent GX10 cluster with cooling in. A 10” rack. &#32;"
     },
     {
       "subreddit": "LocalLLaMA",
-      "title": "Why you can't trust cloud API endpoints: 40 days of coding-agent telemetry showing the exact day providers silently overwrote deepseek-v4.1-flash with -1017 (\"faster execution, shorter answers\" = 3x more swearing and 6.7x more model switches)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xiqw9i/why_you_cant_trust_cloud_api_endpoints_40_days_of/",
-      "published": "2026-10-29T17:46:05+00:00",
+      "title": "Do you have any opinions that generally go against /r/LocalLLaMa's hivemind?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjltn3/do_you_have_any_opinions_that_generally_go/",
+      "published": "2026-10-30T17:32:42+00:00",
       "age_hours": 1,
-      "snippet": "Around mid-October deepseek-v4.1-flash suddenly started feeling much dumber in my coding agent, so I parsed my local session logs to see when it broke. Before the update it had a funny quirk where it would randomly reply in Chinese while being 100% convinced it was speaking English. In the -1017 update (released Oct 17) they fixed the Chinese leak and made it fire tool calls more aggressively - a"
-    },
-    {
-      "subreddit": "LocalLLM",
-      "title": "old Xeon X99 PC with 256GB RAM + RTX 3090 Ti worth it for Strata LLM inference?",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1xiqur0/old_xeon_x99_pc_with_256gb_ram_rtx_3090_ti_worth/",
-      "published": "2026-10-29T17:44:36+00:00",
-      "age_hours": 1,
-      "snippet": "&#32;"
-    },
-    {
-      "subreddit": "LocalLLaMA",
-      "title": "old Xeon X99 PC with 256GB RAM + RTX 3090 Ti worth it for Strata LLM inference?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xiqujs/old_xeon_x99_pc_with_256gb_ram_rtx_3090_ti_worth/",
-      "published": "2026-10-29T17:44:22+00:00",
-      "age_hours": 1,
-      "snippet": "&#x200B; I found this used PC in my local market for around $420: - CPU: Xeon E5-2640 v3 (8C/16T) - Motherboard: X99 (exact model unknown) - RAM: 16GB DDR4 (planning to upgrade to 256GB) - Storage: 128GB SSD - Includes a 1080p 144Hz monitor and accessories. I&#39;m planning to add my RTX 3090 Ti 24GB and upgrade to 256GB DDR4, mainly to run large LLMs using Strata Engine with RAM/VRAM offloading."
+      "snippet": "I&#39;m finding myself at odds with the vibes of the community here (and the open-weight/self-hosted community in general) when it comes to LLM&#39;s - be it on Reddit, X, Bluesky, wherever - I think some folks are getting carried away. Mine personally from this week include: Artificial-Analysis V5 Index is silly in some places (gemini-flash over qwen3.8-2.4T for instance..), but open-weight mode"
     },
     {
       "subreddit": "AI_Agents",
-      "title": "I think AI agents need a failure-cost test",
-      "url": "https://www.reddit.com/r/AI_Agents/comments/1xiqr62/i_think_ai_agents_need_a_failurecost_test/",
-      "published": "2026-10-29T17:40:54+00:00",
+      "title": "Linear let AI agents be assignees for ten weeks, then took it back",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1xjlrfo/linear_let_ai_agents_be_assignees_for_ten_weeks/",
+      "published": "2026-10-30T17:30:24+00:00",
       "age_hours": 1,
-      "snippet": "I’m trying to judge AI agent ideas by failure cost. Not “can the agent do it?” Not “is the demo impressive?” Not “would someone use it?” What happens when the task is done late, wrong, or not at all? If the answer is mild annoyance, maybe the agent is not worth much. If the answer is delayed revenue, compliance exposure, churn risk, failed onboarding, missed SLA, manual rework, or another hire, m"
-    },
-    {
-      "subreddit": "selfhosted",
-      "title": "Playmat: a self-hosted Magic: The Gathering server you can play from the browser (Docker Compose, ARM + x86)",
-      "url": "https://www.reddit.com/r/selfhosted/comments/1xiqq8c/playmat_a_selfhosted_magic_the_gathering_server/",
-      "published": "2026-10-29T17:39:59+00:00",
-      "age_hours": 1,
-      "snippet": "https://preview.redd.it/gcfggqi90gyh1.png?width=2400&amp;format=png&amp;auto=webp&amp;s=a67d4c34f20af5abd1554a7f22ad9e1782946528 I&#39;ve been working on Playmat, a fork of XMage (the open-source MTG rules engine) with a browser client, and the main way to run it is self-hosted. It&#39;s built for a playgroup that wants its own server. The stack: four containers from one compose file: the game se"
-    },
-    {
-      "subreddit": "LocalLLM",
-      "title": "Mistral releases Le Chonk weights: a 1-trillion-parameter model with a 1M-token context window",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1xiqmco/mistral_releases_le_chonk_weights_a/",
-      "published": "2026-10-29T17:35:49+00:00",
-      "age_hours": 1,
-      "snippet": "&#32;"
-    },
-    {
-      "subreddit": "LocalLLM",
-      "title": "Spent $28k on Mac Studio",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1xiqm3g/spent_28k_on_mac_studio/",
-      "published": "2026-10-29T17:35:31+00:00",
-      "age_hours": 1,
-      "snippet": "Is this going to be my biggest regret or best purchase of my life for running local ai? Everyone told me not to and that usually means i’m early to something great 😆 &#32;"
-    },
-    {
-      "subreddit": "ClaudeAI",
-      "title": "Is there any way to adjust your usage limit in the Claude Code mobile app? It seems like you can only do it through the website.",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xiqkjf/is_there_any_way_to_adjust_your_usage_limit_in/",
-      "published": "2026-10-29T17:33:55+00:00",
-      "age_hours": 1,
-      "snippet": "In Settings &gt; Usage on the mobile app, you can see your usage limit but cannot update it. It seems like you have to visit the website and sign in and do it through there. Is it possible to do it on the mobile app or not? &#32;"
-    },
-    {
-      "subreddit": "AI_Agents",
-      "title": "I gave an AI agent write access to a client's ERP. Here are the guardrails it used without being told.",
-      "url": "https://www.reddit.com/r/AI_Agents/comments/1xiql1r/i_gave_an_ai_agent_write_access_to_a_clients_erp/",
-      "published": "2026-10-29T17:34:28+00:00",
-      "age_hours": 1,
-      "snippet": "I do some consulting for a construction client whose projects, timesheets and expenses live in Odoo. One of my agents has its own user in Odoo&#39;s chat. I message it there, the client&#39;s project manager can too, and it remembers the last message it read so it picks up where it left off. I finally went through its work files to see what it actually does. Most of it happened on one afternoon:"
+      "snippet": "In May 2025, Linear gave agents a seat on the team. An agent got a profile like a person&#39;s, you could @-mention it in a comment, and you could put it in the assignee field. Ten weeks later, Linear took the assignee field back. Its post on 1 August said agents were holding dozens of assigned issues with &quot;no clear sense of who was behind them,&quot; and when someone disagreed with an agent"
     },
     {
       "subreddit": "mcp",
-      "title": "Kin: one remote MCP server in front of your accounts, with Allow, Ask me or Block on every action",
-      "url": "https://www.reddit.com/r/mcp/comments/1xiqil6/kin_one_remote_mcp_server_in_front_of_your/",
-      "published": "2026-10-29T17:31:57+00:00",
+      "title": "Which MCP connection has actually stayed in your workflow?",
+      "url": "https://www.reddit.com/r/mcp/comments/1xjlpnr/which_mcp_connection_has_actually_stayed_in_your/",
+      "published": "2026-10-30T17:28:30+00:00",
       "age_hours": 1,
-      "snippet": "I&#39;m Troy and I built Kin to genuinely solve some major problems I&#39;ve been having with AI. I am using it extensively personally. Kin is a remote MCP server at https://app.kinlab.ai/mcp (Streamable HTTP, OAuth). You connect your accounts to Kin once, from GitHub and Notion to Linear and Sentry, then add that one address to ChatGPT, Claude, Codex, Cursor, Gemini, Grok or anything that suppor"
-    },
-    {
-      "subreddit": "ClaudeAI",
-      "title": "If Claude can explain my own work better than I can, do I really understand it?",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xiqe4z/if_claude_can_explain_my_own_work_better_than_i/",
-      "published": "2026-10-29T17:27:35+00:00",
-      "age_hours": 1,
-      "snippet": "Something about using Claude makes me question what it actually means to understand something. I can ask Claude to build something, read through the implementation, and even follow its reasoning. But if I couldn&#39;t have arrived at that solution myself, how much of that understanding is truly mine? Maybe understanding was never about being able to produce every answer from scratch. Maybe it&#39"
-    },
-    {
-      "subreddit": "Python",
-      "title": "Alternative to libCST",
-      "url": "https://www.reddit.com/r/Python/comments/1xiqc6v/alternative_to_libcst/",
-      "published": "2026-10-29T17:25:35+00:00",
-      "age_hours": 1,
-      "snippet": "Looking for a suggestion of an alternative CST parser to libcst. Have been trying to install libcst for over two days now but still unable to do so, I think the issue might be that there is no PyYaml `wheel` for Python 3.15. So now wondering if there might be some other alternative CST parser available. I need to parse comments as well as other code so standard AST won&#39;t work as far as I know"
-    },
-    {
-      "subreddit": "LocalLLM",
-      "title": "Apple promoting open source LLMs",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1xiq21m/apple_promoting_open_source_llms/",
-      "published": "2026-10-29T17:15:30+00:00",
-      "age_hours": 1,
-      "snippet": "Mark zuck posted on X that 2 mac studios can run Muse locally. https://x.com/finkd/status/2110778025629347999?a=ZHVcIzeWCcwKe9KvWh8&amp;s=46 (clearly a marketing stunt between apple &amp; meta) In my mind this means that apple and meta are making it clear they are pushing for open source and they don’t want to rely on gpt or claude as there backbone) IMO i think open source LLMs are about to get"
-    },
-    {
-      "subreddit": "LocalLLM",
-      "title": "Mac Studio M5 Ultra 96gb speeds with Qwen",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1xipyo8/mac_studio_m5_ultra_96gb_speeds_with_qwen/",
-      "published": "2026-10-29T17:12:13+00:00",
-      "age_hours": 1,
-      "snippet": "Hey all, I&#39;ve been testing a new M5 Ultra 96gb Studio for the past week or so to find its limits for my own use case. There has been a lot of discussion about this machine but not a lot of numbers, so I figured I&#39;d share my results here in case it&#39;s helpful for anyone. The conclusions (for me): Qwen 3.8 Flash Next fits below a Q4 quant, and accuracy seems pretty close to the Q4 level"
+      "snippet": "Curious which MCP connections people keep using after the initial testing. What task does yours handle, and what still needs fixing by hand? Specific examples would be useful, especially the boring stuff you use every day. &#32;"
     },
     {
       "subreddit": "AI_Agents",
-      "title": "Which coding agent gets the most out of a local Qwen 3.8 27B? I lined up 10 and logged tokens, cache and sandbox blocks",
-      "url": "https://www.reddit.com/r/AI_Agents/comments/1xipvla/which_coding_agent_gets_the_most_out_of_a_local/",
-      "published": "2026-10-29T17:09:08+00:00",
+      "title": "What do you still make your agent ask permission for?",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1xjlp2l/what_do_you_still_make_your_agent_ask_permission/",
+      "published": "2026-10-30T17:27:57+00:00",
       "age_hours": 1,
-      "snippet": "Part 2 of my agent test. Last time it was a 4B model, and you asked for the hardware, token counts and more agents. (Disclosure: I work on Atomic Agent, one of the ten.) Used: MacBook Pro M5 Max, 64 GB. Qwen 3.8 27B Q4 on llama.cpp, thinking off. Results # Agent Passed Median time Median tokens Cache reuse Tried to go online 1 Pi 5/5 38 s 9.2k 72% no 2 DeepSeek Harness 5/5 60 s 35.3k 83% no 3 Cod"
-    },
-    {
-      "subreddit": "ClaudeAI",
-      "title": "How to test whether Claude picks your skill: three checks from Anthropic's authoring guide",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xiptpb/how_to_test_whether_claude_picks_your_skill_three/",
-      "published": "2026-10-29T17:07:08+00:00",
-      "age_hours": 1,
-      "snippet": "A skill can have detailed instructions and still not get picked for the right task. Anthropic&#39;s authoring guide explains why the description matters: at startup, Claude has each skill&#39;s name and description pre-loaded. The rest of SKILL.md is read when the skill becomes relevant. Three checks based on the guide: Check what the description actually promises. Say what the skill does and whe"
+      "snippet": "An agent drafting an email feels pretty different from one sending it, especially when it’s replying to a customer. For people using agents beyond demos, which actions still need your approval, and what made you comfortable letting the rest run on their own? &#32;"
     },
     {
       "subreddit": "AI_Agents",
-      "title": "How to make a Claude Code rule enforced instead of just requested",
-      "url": "https://www.reddit.com/r/AI_Agents/comments/1xipsqd/how_to_make_a_claude_code_rule_enforced_instead/",
-      "published": "2026-10-29T17:06:08+00:00",
+      "title": "ASK - AI agent for memory challenged daughter?",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1xjlovk/ask_ai_agent_for_memory_challenged_daughter/",
+      "published": "2026-10-30T17:27:44+00:00",
       "age_hours": 1,
-      "snippet": "If a rule is &quot;never do X&quot;, putting it in CLAUDE.md isn&#39;t the same as enforcing it. Anthropic&#39;s Claude Code docs explicitly describe CLAUDE.md as context, not enforced configuration. That&#39;s an important distinction when the rule protects something you can&#39;t afford to change. Three different jobs: Guidance: CLAUDE.md Naming conventions, project structure, test commands. In"
+      "snippet": "My daugther has trouble remembering appointments, conversation details and new information in general, due to a lack of oxygen during birth. She&#39;s 18 yo. and generally functional, but at this age it&#39;s getting harder for her. A friend suggested that she could use an AI agent to keep on top of appointments, important conversations details, and whatnot. Someone mentioned connecting ChatGPT w"
+    },
+    {
+      "subreddit": "LocalLLM",
+      "title": "Insane Local AI 3D Modeling Performance with Qwen3.8-27b:Q8. GitHub Repo added!",
+      "url": "https://www.reddit.com/r/LocalLLM/comments/1xjljte/insane_local_ai_3d_modeling_performance_with/",
+      "published": "2026-10-30T17:22:38+00:00",
+      "age_hours": 1,
+      "snippet": "The local AI models are becoming incredibly useful for 3D physics and modeling. I was able to produce this New Townhall (Marienplatz Rathaus in Bavaria) building under 3 hours without any API cost or any image reference. In this 75s video, I show the demo of how this building model looks from drone-POV. Before anyone protests, this is nothing like in the real pictures, I want to point out that th"
     },
     {
       "subreddit": "mcp",
-      "title": "codeDB Lens: read-only MCP server for SQL Server and PostgreSQL health checks (Go, open source)",
-      "url": "https://www.reddit.com/r/mcp/comments/1xiprha/codedb_lens_readonly_mcp_server_for_sql_server/",
-      "published": "2026-10-29T17:04:54+00:00",
+      "title": "Appliance Control Bridge - AC Bridge: an MCP server that lets Claude Code and Codex control the smart devices on your LAN",
+      "url": "https://www.reddit.com/r/mcp/comments/1xjlj3v/appliance_control_bridge_ac_bridge_an_mcp_server/",
+      "published": "2026-10-30T17:21:55+00:00",
       "age_hours": 1,
-      "snippet": "Disclosure: I&#39;m from codeDB (SQL Server/PostgreSQL monitoring). Lens is a separate free, Apache 2.0 tool. What it gives the model: a real diagnosis to reason about instead of raw DMVs. `check` runs 26 evidence-based rules (13 per engine) and returns an A-F grade with coverage, each finding with evidence, impact and next action; `get_finding` drills down; `history`/`compare` show what changed;"
+      "snippet": "https://www.ac-bridge.com/ Disclosure: I make AC Bridge, and it&#39;s paid. AC Bridge exposes the smart devices on your LAN to Claude Code and Codex as MCP tools: list_devices , get_device , set_device and run_scene , plus a devices://graph resource. https://reddit.com/link/1xjlj3v/video/qduw2e462nyh1/player Why: a quiet status channel. Ask the agent to &quot;pulse the desk lamp red if the migrat"
     },
     {
-      "subreddit": "LocalLLaMA",
-      "title": "Using Computer Science and Anki to Learn More Vocabulary With Less Memorization",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xippbm/using_computer_science_and_anki_to_learn_more/",
-      "published": "2026-10-29T17:02:40+00:00",
-      "age_hours": 2,
-      "snippet": "I’m still a beginner in Japanese, and I’ve always been amazed watching more advanced learners guess the reading and meaning of words they’ve never seen before. So I got curious and tried to actually measure how often that’s possible, by breaking words into the pieces they’re built from and checking whether those pieces give the word away. That led me down a rabbit hole of greedy algorithms and gr"
+      "subreddit": "ClaudeAI",
+      "title": "People who switched to Claude, what are your experience?",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjlhn2/people_who_switched_to_claude_what_are_your/",
+      "published": "2026-10-30T17:20:39+00:00",
+      "age_hours": 1,
+      "snippet": "Now that OpenAI has announced that they no longer want users on plus subscription, how is claude compared to Codex? I really like Codex, but I just can&#39;t accept OpenAIs behavior. Also, later our quota will be shared between chat and codex, so that is also a thing codex no longer will have as a benefit compared to claude. I keep hearing people saying the weekly quota are more effective and giv"
     },
     {
       "subreddit": "LocalLLM",
-      "title": "Which macbook pro now for local LLM in Q4/2026 ?",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1xipo19/which_macbook_pro_now_for_local_llm_in_q42026/",
-      "published": "2026-10-29T17:01:27+00:00",
-      "age_hours": 2,
-      "snippet": "So Im in need of a local LLM for off-line outpost lookup + reference mostly, unnecessarily for genius-level coding since I can program myself pretty easily ... but I need good document lookup &amp; summary capabilities 🤷‍♂️ will backup a lot of documents for it to look into on another drives.. &#32;"
-    },
-    {
-      "subreddit": "AI_Agents",
-      "title": "The most expensive agent bug isn't hallucination. It's \"claimed done\".",
-      "url": "https://www.reddit.com/r/AI_Agents/comments/1xipne7/the_most_expensive_agent_bug_isnt_hallucination/",
-      "published": "2026-10-29T17:00:49+00:00",
-      "age_hours": 2,
-      "snippet": "Built a voice agent that books clinic appointments. Worst bug wasn&#39;t a weird answer. It said &quot;you&#39;re booked&quot; when the calendar write had failed. Now it reads the booking back before confirming anything, and a failed booking becomes a callback for the clinic staff. Boring fix, but it&#39;s why people keep using it. Do you verify every action your agents take, or just the risky on"
-    },
-    {
-      "subreddit": "LocalLLaMA",
-      "title": "Kokoro can now clone any voice with just ~600 MB of extra VRAM!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xiplj7/kokoro_can_now_clone_any_voice_with_just_600_mb/",
-      "published": "2026-10-29T16:59:08+00:00",
-      "age_hours": 2,
-      "snippet": "While looking for audio models, I came across OpenVoice. It&#39;s getting pretty old, but surprisingly still ranks high on TTS leaderboards. What caught my attention was its design: essentially TTS + voice conversion . The ToneColorConverter can run independently of the TTS model. That got me thinking: Can we pair it with other TTS models? I tried it with Kokoro, and the results were pretty good!"
+      "title": "PSA: Upgrade Flash Next to DFlash2 if you haven't! +17% on average",
+      "url": "https://www.reddit.com/r/LocalLLM/comments/1xjlgw5/psa_upgrade_flash_next_to_dflash2_if_you_havent/",
+      "published": "2026-10-30T17:19:56+00:00",
+      "age_hours": 1,
+      "snippet": "&#32;"
     },
     {
       "subreddit": "selfhosted",
-      "title": "Ope! Won’t procrastinate next time!",
-      "url": "https://www.reddit.com/r/selfhosted/comments/1xiphv1/ope_wont_procrastinate_next_time/",
-      "published": "2026-10-29T16:55:30+00:00",
-      "age_hours": 2,
-      "snippet": "Knew about Plex2Shell, procrastinated, Plex’s LXC CPU spiked to 100%, didn’t pick up on it for 2 days bc host CPU wasn’t particularly concerning. Won’t procrastinate next time. &#32;"
+      "title": "Drive.py v0.996 - Find duplicate files and manage disks across your connected and disconnected drives. Halloween update",
+      "url": "https://www.reddit.com/r/selfhosted/comments/1xjlgs4/drivepy_v0996_find_duplicate_files_and_manage/",
+      "published": "2026-10-30T17:19:48+00:00",
+      "age_hours": 1,
+      "snippet": "Significantly improved preview, quick map, bookmarks, blacklists, media file filters, and clipboard. Built-in drive crawler, a file map overview, media thumbnail grids, native image previews and on-demand video playback. See the README, press s to scan and h for help. repo: https://github.com/web3cryptowallet/drive-py v0.996 PREVIEW ORDER: Shift+G cycles sequence, random, page stride and range st"
     },
     {
       "subreddit": "LocalLLaMA",
-      "title": "ServiceNow-AI/Apriel-Voice-27B-preview · Hugging Face",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xipftk/servicenowaiaprielvoice27bpreview_hugging_face/",
-      "published": "2026-10-29T16:53:23+00:00",
-      "age_hours": 2,
-      "snippet": "from Service Now AI: Apriel Voice 27B Preview An open model for speech, reasoning, and tool use from ServiceNow Apriel Voice 27B Preview understands spoken requests, reasons over conversational context, and generates text responses and tool calls through a shared Gemma 4 backbone. It adds a speech interface while retaining text and image input capabilities. Pair it with an external speech synthes"
+      "title": "PSA: Upgrade Flash Next to DFlash2 if you haven't! +17% on average",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjlgm4/psa_upgrade_flash_next_to_dflash2_if_you_havent/",
+      "published": "2026-10-30T17:19:41+00:00",
+      "age_hours": 1,
+      "snippet": "Not long ago, DFlash2 for Qwen3.8-Flash-Next was released, but initially llama.cpp compatibility wasn&#39;t there. Now it is. I quantized my own GGUFs of the drafter and tested it out in llama.cpp v0.8.0, the first release that supports DFlash2 for FN. Speed: MTP (acceptance) DFlash2 (acceptance) delta Q4_K_XL (code) 80.5 tps (94%) 95.1 tps (84%) +18% Q4_K_XL (list) 91.4 tps (98%) 127 tps (98%) +"
+    },
+    {
+      "subreddit": "ClaudeAI",
+      "title": "Almost 100k lines of code and 2700 individual drawings for Claude to animate this hand-drawn style music video",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjldnn/almost_100k_lines_of_code_and_2700_individual/",
+      "published": "2026-10-30T17:16:48+00:00",
+      "age_hours": 1,
+      "snippet": "Ever since this &quot;Claude made my music video&quot; trend started I&#39;ve been trying to see if I can get Claude to animate in styles other than the motion graphics and threejs/blender look. I made a post a couple of weeks back with another video where I got Claude to animate in a more hand-drawn style, however it was still pretty limited motion-wise. For this video I really wanted to go all"
+    },
+    {
+      "subreddit": "ClaudeAI",
+      "title": "i asked claude code to turn one of my toy soldiers into a mech suit. the line that saved it was \"the reference is not to size\"",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjlavb/i_asked_claude_code_to_turn_one_of_my_toy/",
+      "published": "2026-10-30T17:14:06+00:00",
+      "age_hours": 1,
+      "snippet": "solo dev here, making a toy-brick rts in ue5 (day 44). i was redoing a shot for my trailer and wanted to swap one of my sunbeam soldiers for something bigger, so i sketched a mech suit concept in chatgpt and handed the image to claude code. the first thing i told it: the reference is not to size, build it from scratch. that one line mattered. every model in my game comes out of one blender python"
+    },
+    {
+      "subreddit": "ClaudeAI",
+      "title": "ClaudeDuet is fucking awesome",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjl2zv/claudeduet_is_fucking_awesome/",
+      "published": "2026-10-30T17:06:00+00:00",
+      "age_hours": 1,
+      "snippet": "It has full context on my deals, knows my calendar, is helping me knock out bullshit ass tasks for my job that I straight up would forget to do because I am piece of garbage employee. I basically can run my shit on autopilot now and it’s awesome. Not even really being hyperbolic, it’s saving my ass hard right now. &#32;"
+    },
+    {
+      "subreddit": "ClaudeAI",
+      "title": "I'm a product designer with zero game dev experience, and I built my portfolio as a cozy multiplayer village with Claude",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjl2j8/im_a_product_designer_with_zero_game_dev/",
+      "published": "2026-10-30T17:05:32+00:00",
+      "age_hours": 1,
+      "snippet": "I&#39;ve been a SaaS product designer for 13 years. My portfolio looked like everyone else&#39;s, a grid of case studies. So I tried something different: a little village you can walk around. What&#39;s in it: - Every building is a project. Walk in and the case study opens - A mailbox where you can write me a letter (with a little envelope animation) - A guestbook to leave a note - A bee-catching"
+    },
+    {
+      "subreddit": "ClaudeAI",
+      "title": "Before you trust /rewind in Claude Code, check which changes it can actually undo",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjl1ue/before_you_trust_rewind_in_claude_code_check/",
+      "published": "2026-10-30T17:04:49+00:00",
+      "age_hours": 1,
+      "snippet": "You ask Claude Code to change a few files. It edits some directly, runs a shell command, and hands part of the task to a subagent. The result isn&#39;t right, so you use /rewind. Does everything go back? According to the checkpointing docs, no. What matters is which files Claude Code tracked, not simply whether the change happened during the session. Before each prompt, Claude Code saves checkpoi"
+    },
+    {
+      "subreddit": "AI_Agents",
+      "title": "How to stop a Strands agent calling tools in the wrong order",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1xjl1qh/how_to_stop_a_strands_agent_calling_tools_in_the/",
+      "published": "2026-10-30T17:04:42+00:00",
+      "age_hours": 1,
+      "snippet": "I did a keynote on Saturday about what S3 and EC2 can teach us about building agents (like a lot about using building blocks and clicking them together for your goal) and then after my talk someone from the audience came up to ask me why their Strands agent kept picking the wrong tool, and calling tools in the wrong order even when the order mattered. It turns out they were using A LOT of tools."
+    },
+    {
+      "subreddit": "ClaudeAI",
+      "title": "i built a claude connector that edits video, you ask for clips in plain words",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjl0lj/i_built_a_claude_connector_that_edits_video_you/",
+      "published": "2026-10-30T17:03:30+00:00",
+      "age_hours": 1,
+      "snippet": "fluidcut is an mcp connector. add it in claude (settings &gt; connectors &gt; add custom connector, url fluidcut.app/mcp) and then just talk to it paste a youtube link or upload a video, up to 3 hours. claude calls create_clips, fluidcut finds the moments and renders captioned clips. want something different, just say it (&quot;now one with hinglish captions&quot;) how claude helped: i built most"
+    },
+    {
+      "subreddit": "AI_Agents",
+      "title": "How to read traces and run evals for agent debugging 101",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1xjl0xq/how_to_read_traces_and_run_evals_for_agent/",
+      "published": "2026-10-30T17:03:53+00:00",
+      "age_hours": 1,
+      "snippet": "Disclosure: I work on an agent reliability platform and I still find it hard to believe that people still struggle to read their agent traces. An AI agent can give a complete reasonable answer and can still go wrong behind the scenes. Maybe it retrieved the wrong context or chose an action that it was never supposed to take. I teamed up with Antaripa Saha who is unrivaled in evals, search, retrie"
+    },
+    {
+      "subreddit": "LocalLLaMA",
+      "title": "Architecture matters more than you think, or how I learned to just try crazy things",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjkxyd/architecture_matters_more_than_you_think_or_how_i/",
+      "published": "2026-10-30T17:01:01+00:00",
+      "age_hours": 1,
+      "snippet": "I&#39;ve been working on a project for a long time. I&#39;m not building from scratch, but it&#39;s more than just fine-tuning as I&#39;m performing RYS layer duplication and training not just the weights of a model but adjusting the geometry of models to optimize for different functions. Don&#39;t ask because I&#39;m not ready to discuss it yet. I&#39;ve been building on several small models - G"
+    },
+    {
+      "subreddit": "ClaudeAI",
+      "title": "claude code randomly switched to russian mid-task, then caught itself and switched to english instead of turkish",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjkv1s/claude_code_randomly_switched_to_russian_midtask/",
+      "published": "2026-10-30T16:58:09+00:00",
+      "age_hours": 1,
+      "snippet": "I was working in claude code in turkish and the status line suddenly came out in russian. then it wrote &quot;wait the narration is in turkish, so the rewrite must be in turkish&quot; and wrote the next line in english ?? first time i see something like this. why does this happen? and why russian? anyone else had this? &#32;"
+    },
+    {
+      "subreddit": "AI_Agents",
+      "title": "Polling the community about a harness construction",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1xjkvvk/polling_the_community_about_a_harness_construction/",
+      "published": "2026-10-30T16:59:00+00:00",
+      "age_hours": 1,
+      "snippet": "Hello everyone, im wondering if this has been tried before, and if so, what insights were learned at that time. The idea is similar to the Bi-Directional &quot;model&quot; from Openai or the &quot;model&quot; that controls the figure series robots. Basically, a shared space where various different models make contributions, and models intake that data or portions of that data and either compute a"
+    },
+    {
+      "subreddit": "LocalLLaMA",
+      "title": "XHToken/Spark-X2.6-4B-GGUF surprising benchmark score",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjkvma/xhtokensparkx264bgguf_surprising_benchmark_score/",
+      "published": "2026-10-30T16:58:44+00:00",
+      "age_hours": 1,
+      "snippet": "Made a place anyone can benchmark their little local models and it takes about 10-45 min (depending on hardware and model). After a couple hundred diff models + harness runs from various users, I see the same models over and over and over. So I tested this little guy: Spark-X2.6-4B Scored 94.6/100 and beat some really popular 27b-35b models. I did this myself and I did it using Hermes on 2x 3060"
+    },
+    {
+      "subreddit": "selfhosted",
+      "title": "Dealing with FlareSolverr memory leaks and Turnstile fails? Here is why it breaks and a lightweight alternative",
+      "url": "https://www.reddit.com/r/selfhosted/comments/1xjks52/dealing_with_flaresolverr_memory_leaks_and/",
+      "published": "2026-10-30T16:55:16+00:00",
+      "age_hours": 1,
+      "snippet": "If you&#39;ve been running FlareSolverr in Docker for your self-hosted tools (Prowlarr, Jackett, custom scrapers), you&#39;ve likely noticed it crashing, consuming 2-4 GB of RAM, or failing indefinitely on modern Cloudflare Turnstile challenges. The root cause is that FlareSolverr relies on an older Chromium automation method that Cloudflare now actively detects via CDP event loop timing. If you"
+    },
+    {
+      "subreddit": "ClaudeAI",
+      "title": "Weekend project: Mario 64 in Mixed Reality!",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjko2l/weekend_project_mario_64_in_mixed_reality/",
+      "published": "2026-10-30T16:51:01+00:00",
+      "age_hours": 1,
+      "snippet": "I built a native MR version of Mario 64 that runs in real 3D (not a flat stereoscopic screen) at 90 FPS. The whole level sits on your desk and you play it like a diorama. I built this with Claude Code (Opus 5.5), using the Unity CLI and PICO CLI so Claude could build, deploy and iterate on the headset directly from the terminal. Claude code: - wrote the bridge between the SM64 decomp and Unity&#3"
+    },
+    {
+      "subreddit": "LocalLLaMA",
+      "title": "ISTA DeepSeek-V4.1-Flash-1017 GSQ-RCO quants comparison",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjkjla/ista_deepseekv41flash1017_gsqrco_quants_comparison/",
+      "published": "2026-10-30T16:46:21+00:00",
+      "age_hours": 1,
+      "snippet": "We have noticed recent comparisons published by Unsloth that do not align with our results for DeepSeek-V4.1-Flash-1017. So just if it is not obvious: we did of course not modify any hyperparameters to favor our models. We used standard settings appropriate for a model of this scale (763B parameters) and its 1M context length capability: a 128K context window and a reasoning effort set to 50. To"
+    },
+    {
+      "subreddit": "LocalLLaMA",
+      "title": "LFM3-Omni-2B running locally in-browser on WebGPU",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjkh59/lfm3omni2b_running_locally_inbrowser_on_webgpu/",
+      "published": "2026-10-30T16:43:56+00:00",
+      "age_hours": 1,
+      "snippet": "The first true omni model that can run 100% locally in a browser... fully end-to-end, with no separate ASR or TTS models needed. With custom WebGPU kernels, we&#39;re able to run LFM3-Omni-2B at ~280 tok/s on an M4 Max, accepting visual, audio, or text and producing interleaved text and audio tokens. Just 90 ms to the first token and 140 ms to the first audio. Link to the demo: https://huggingfac"
+    },
+    {
+      "subreddit": "mcp",
+      "title": "We built an MCP connection for construction plan takeoffs, with credit preflight and source review",
+      "url": "https://www.reddit.com/r/mcp/comments/1xjkg9i/we_built_an_mcp_connection_for_construction_plan/",
+      "published": "2026-10-30T16:43:02+00:00",
+      "age_hours": 1,
+      "snippet": "I run Soxoa, the company behind Portravo. We built an MCP connection for working with construction plan takeoffs from an assistant. The workflow starts by checking which trades are available and what an existing-credit run will cost. A user can attach a plan PDF to their project, start a takeoff and recover its status without starting the job again. The result can be reviewed for quantities, sour"
+    },
+    {
+      "subreddit": "AI_Agents",
+      "title": "Why every post and comment here looks AI gen?",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1xjkdlx/why_every_post_and_comment_here_looks_ai_gen/",
+      "published": "2026-10-30T16:40:21+00:00",
+      "age_hours": 1,
+      "snippet": "Am I hallucinating or almost every post and comment in this sub is written by AI? I understand this is the main topic here, and I have nothing against it (being a user myself). But I don&#39;t understand what&#39;s the point of writing entire posts and comments just copy-pasted from your agent, I feel like I&#39;m getting brain damage from every post I read, despite the genuine interest in the to"
+    },
+    {
+      "subreddit": "mcp",
+      "title": "We built an MCP server for reviewing website tracking and consent evidence",
+      "url": "https://www.reddit.com/r/mcp/comments/1xjkdfa/we_built_an_mcp_server_for_reviewing_website/",
+      "published": "2026-10-30T16:40:10+00:00",
+      "age_hours": 1,
+      "snippet": "I run Soxoa, the company behind RegSentry. We built an MCP server to help examine tracking signals on a public website you are authorized to inspect. It can inspect static signals, observe bounded browser activity before consent and after supported reject-all or accept-all controls, compare dated observations, and export a text evidence report. It can also turn supplied observations into a remedi"
+    },
+    {
+      "subreddit": "mcp",
+      "title": "Are MCP servers more useful when AI agents can actually take actions, not just retrieve data?",
+      "url": "https://www.reddit.com/r/mcp/comments/1xjkd79/are_mcp_servers_more_useful_when_ai_agents_can/",
+      "published": "2026-10-30T16:39:56+00:00",
+      "age_hours": 1,
+      "snippet": "I know there&#39;s a difference between MCP servers that let an AI assistant look at things and those that let it actually manage part of a business... For example, an affiliate management platform with an MCP server could let an agent retrieve live conversion and partner performance data or trigger operational actions through natural language... The interesting part is necessarily getting the AI"
+    },
+    {
+      "subreddit": "AI_Agents",
+      "title": "How do you count one step when you report agent completion",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1xjkcqa/how_do_you_count_one_step_when_you_report_agent/",
+      "published": "2026-10-30T16:39:26+00:00",
+      "age_hours": 1,
+      "snippet": "The problem is step counts hide the work inside them. A single cached lookup and a 35 call chain can both show up as steps in different reports. A retry after a failure can count as a new step or as part of the old one. A chunk with a hard check between runs can read as 4 steps or 30 steps depending on who counts it. That makes completion numbers hard to compare across teams even when the headlin"
     },
     {
       "subreddit": "golang",
-      "title": "Tinygo 0.44 surprisingly good...",
-      "url": "https://www.reddit.com/r/golang/comments/1xipepq/tinygo_044_surprisingly_good/",
-      "published": "2026-10-29T16:52:18+00:00",
+      "title": "Sandboxing subprocesses with Landlock in Go 1.28",
+      "url": "https://www.reddit.com/r/golang/comments/1xjkc1c/sandboxing_subprocesses_with_landlock_in_go_128/",
+      "published": "2026-10-30T16:38:42+00:00",
+      "age_hours": 1,
+      "snippet": "I was looking through the upcoming Go 1.28 changes and found the new Landlock support in syscall.SysProcAttr interesting. It lets Go apply a Landlock ruleset to a subprocess without restricting the parent process. We still need to create the ruleset ourselves, but we no longer need a separate launcher just to apply it to the child. I wrote a short article with a runnable example that blocks direc"
+    },
+    {
+      "subreddit": "ClaudeAI",
+      "title": "The era of vibe coding actually made me appreciate old school software engineers 10x more",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjk9x0/the_era_of_vibe_coding_actually_made_me/",
+      "published": "2026-10-30T16:36:30+00:00",
       "age_hours": 2,
-      "snippet": "It can&#39;t build every golang app yet, but it&#39;s getting close. It even beats big Go in a few informal benchmarks. Big Go is still much faster to compile, but tinygo 0.44 addresses some compiler slowness issues, too. &#32;"
+      "snippet": "Lately, I’ve been going down a rabbit hole: using reverse engineering anything (REA) to tear down some of my favorite legacy software and vibe-coding my own versions from scratch with Claude. To be honest, I have a bit of OCD when it comes to code bloat. My original goal was to learn how these tools tick and strip them down to their bare essentials using first principles thinking. I figured I cou"
     },
     {
       "subreddit": "LocalLLM",
-      "title": "running a 2b model over years of my life data on a phone, fully local: what worked, and real speeds from an iphone 17 down to a pixel 4a",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1xipece/running_a_2b_model_over_years_of_my_life_data_on/",
-      "published": "2026-10-29T16:51:56+00:00",
+      "title": "Model recommendations - MS-S1 MAX 128GB",
+      "url": "https://www.reddit.com/r/LocalLLM/comments/1xjk6gf/model_recommendations_mss1_max_128gb/",
+      "published": "2026-10-30T16:32:53+00:00",
       "age_hours": 2,
-      "snippet": "the moment that got me: a 2b model on my iphone, in airplane mode, went through my photos and worked out who my family is. not perfectly, it gets the core people and misses some, but nobody tagged a single face for it. that&#39;s from an app i&#39;ve been building (mymo) that turns what your phone already knows (location, health, photos) into a timeline of your life, then lets a local model chat"
-    },
-    {
-      "subreddit": "ClaudeAI",
-      "title": "Claud in a small team for machine control software dev.",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xipczt/claud_in_a_small_team_for_machine_control/",
-      "published": "2026-10-29T16:50:39+00:00",
-      "age_hours": 2,
-      "snippet": "&#x200B; Ok, Opus 5.5 is amazing, it works perfect for our challenges, but i did spend some time getting the right skills in place. What is good practice to share and refine skills within a small team. Something like a &#39;wiki&#39; style (sharepoint?) site could work? or simply place skills as a file in some version management software? Some background. we write code for machine control and let"
+      "snippet": "I’ve already bought the machine and am still setting things up the way I want them. Would love to hear what kind of models people would recommend for this machine and my anticipated workflows. - Based on my research it seems like MoE models are likely where I’m going to be seeing the most bang for my buck here. - My general planned workflow would be to use a combination of cloud and local models,"
     },
     {
       "subreddit": "AI_Agents",
-      "title": "Looking for self-learning & autonomous & smart routing cloud memory!",
-      "url": "https://www.reddit.com/r/AI_Agents/comments/1xipbcq/looking_for_selflearning_autonomous_smart_routing/",
-      "published": "2026-10-29T16:49:00+00:00",
+      "title": "Modifying game files—replacing models.",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1xjk5sd/modifying_game_filesreplacing_models/",
+      "published": "2026-10-30T16:32:12+00:00",
       "age_hours": 2,
-      "snippet": "Hey! This post is not about mem0 and etc similar long-term cloud tools. I&#39;m curious if anyone tried to build a long-term memory (or you know existed tools) that are: autonomous (you install and forget; you don&#39;t need explicitly to ask &#39;remember this or that&#39;) self-learning / self-improving and with verification cycle automatically using skill / lesson from my memory that matching"
-    },
-    {
-      "subreddit": "AI_Agents",
-      "title": "When does a workaround belong in your coding agent’s repo instructions?",
-      "url": "https://www.reddit.com/r/AI_Agents/comments/1xip9lh/when_does_a_workaround_belong_in_your_coding/",
-      "published": "2026-10-29T16:47:10+00:00",
-      "age_hours": 2,
-      "snippet": "Suppose a coding agent finds that two browser tests interfere because their fixtures share the same account. Running those tests with one worker gets the current task through. Before finishing, it proposes adding “Always run browser tests with one worker” to the repo instructions. That could save the next agent from repeating the same debugging. It also turns a problem in two fixtures into a rest"
-    },
-    {
-      "subreddit": "mcp",
-      "title": "My agent needs one MCP tool. The server gives it twenty.",
-      "url": "https://www.reddit.com/r/mcp/comments/1xip8dn/my_agent_needs_one_mcp_tool_the_server_gives_it/",
-      "published": "2026-10-29T16:45:57+00:00",
-      "age_hours": 2,
-      "snippet": "I might connect an MCP server so my coding agent can read a few Linear issues. That doesn’t mean I want it deleting issues or changing everything else in the workspace. Even allowing a tool can be too broad. An email tool might be fine for creating a draft for one recipient, but I wouldn’t want the agent changing the recipient, adding BCC, or sending it. We built Stashbase.dev so you can put thos"
-    },
-    {
-      "subreddit": "ClaudeAI",
-      "title": "Opus 5.5 created a music video for my song",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xip6jj/opus_55_created_a_music_video_for_my_song/",
-      "published": "2026-10-29T16:44:03+00:00",
-      "age_hours": 2,
-      "snippet": "I&#39;ve been making music one way or another for 28 years and I was wrapping up a track recently for an upcoming project and I saw a post someone made here about how they used Claude + Blender to do the visuals and it got me thinking about trying that out for a music video. A little background, i&#39;ve been in software development for 15 years and before that I was in 3D design for Architecture"
-    },
-    {
-      "subreddit": "AI_Agents",
-      "title": "update on the multi-step agent guardrail i scoped here a few weeks ago",
-      "url": "https://www.reddit.com/r/AI_Agents/comments/1xip5hz/update_on_the_multistep_agent_guardrail_i_scoped/",
-      "published": "2026-10-29T16:42:58+00:00",
-      "age_hours": 2,
-      "snippet": "A few weeks ago I asked here how people stop agents from making multi-step mistakes, where each tool call is fine on its own but the sequence goes wrong. A lot of you replied and it really shaped the direction. I’ve got a first version working now and wanted to share where it’s at. It’s a guardrail that re-reads the facts an irreversible action depends on right before it runs, and blocks if a rel"
-    },
-    {
-      "subreddit": "Python",
-      "title": "Text classification with probabilities from a local model, without parsing LLM output",
-      "url": "https://www.reddit.com/r/Python/comments/1xip2z7/text_classification_with_probabilities_from_a/",
-      "published": "2026-10-29T16:40:24+00:00",
-      "age_hours": 2,
-      "snippet": "NobodyWho added decision models to its Python package. Instead of prompting a model and parsing what it writes, you define the possible answers and get back the chosen one with the probability of each option and a confidence value. It supports single choices, yes-or-no probabilities and ordered scores, with both sync (Decision) and async (DecisionAsync) calls. &#32;"
-    },
-    {
-      "subreddit": "golang",
-      "title": "Keycloak with React and Go: Login, PKCE and JWT Roles",
-      "url": "https://www.reddit.com/r/golang/comments/1xip0pd/keycloak_with_react_and_go_login_pkce_and_jwt/",
-      "published": "2026-10-29T16:38:05+00:00",
-      "age_hours": 2,
-      "snippet": "You can also read article here: https://huseyinbabal.dev/posts/keycloak-react-go-pkce-jwt-roles/ &#32;"
-    },
-    {
-      "subreddit": "ClaudeAI",
-      "title": "Claude Code sends each working background agent's full transcript to Opus every ~30 s for a 3-5 word status line. No off switch. Data + workaround",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xiozm7/claude_code_sends_each_working_background_agents/",
-      "published": "2026-10-29T16:36:59+00:00",
-      "age_hours": 2,
-      "snippet": "What happens: For every background agent that is actively working, Claude Code sends that agent&#39;s entire transcript to its active model (usually Opus) about every 30 seconds and asks it to &quot;describe your most recent action in 3-5 words&quot; . The answer only updates the status line in the agents panel. It has been on by default since 2.1.232 (August) and ships in the stable channel. Our"
+      "snippet": "Could you please tell me how to modify model files in games like Horizon Zero Dawn? And in general, how do you modify models in any game? Is there a general tutorial for this? *I recently started learning about AI and its capabilities. &#32;"
     },
     {
       "subreddit": "selfhosted",
-      "title": "is it worth it to buy an old server?",
-      "url": "https://www.reddit.com/r/selfhosted/comments/1xip0f4/is_it_worth_it_to_buy_an_old_server/",
-      "published": "2026-10-29T16:37:47+00:00",
+      "title": "For the people who have used them: Fluxer, Backspace or Spacebar as a Discord alternative?",
+      "url": "https://www.reddit.com/r/selfhosted/comments/1xjk4bm/for_the_people_who_have_used_them_fluxer/",
+      "published": "2026-10-30T16:30:40+00:00",
       "age_hours": 2,
-      "snippet": "i am in no rush to get a server, but currently there is an offer for an HP Proliant server with 2x 2670 xeons and 128gb ram and a p100 GPU and 7tb of storage. my quesiton is, is it worth it to purchase it for 600$ or is it too old of a hardware to be useful my use case is proxmox for hosting my VM and probably running some LLMs with the Ram and GPU combined. thanks in advance :) &#32;"
+      "snippet": "Seems Fluxer is the most promising right now, but I stopped keeping up with all these projects since they were early in development. What have been your experiences with them? &#32;"
     },
     {
       "subreddit": "ClaudeAI",
-      "title": "I'm not a game dev. 11 days after my first commit, my cozy night farming game went live on Google Play",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xiovvv/im_not_a_game_dev_11_days_after_my_first_commit/",
-      "published": "2026-10-29T16:33:17+00:00",
+      "title": "Our Claude Code agents now message each other before two of them edit the same file",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjjrc2/our_claude_code_agents_now_message_each_other/",
+      "published": "2026-10-30T16:17:22+00:00",
       "age_hours": 2,
-      "snippet": "https://reddit.com/link/1xiovvv/video/dbmh8wg6ofyh1/player I&#39;m a huge Stardew Valley fan, and I always wanted to make my own cozy farming game. I&#39;m a developer, but I had never made a game before. Lantern Acres is a farming game set at night. The sun goes down and the farm wakes up. You light old lantern posts to open new paths, grow night crops, fish by lantern light and sell at a night"
+      "snippet": "My team runs a lot of Claude Code sessions in parallel, a few per person, each in its own worktree or on its own laptop. Each of those agents works blind. It doesn&#39;t know what the other agents, mine or my teammates&#39;, are working on, what they&#39;ve decided, or what they&#39;ve already figured out. So one changes the shape of an API response while another builds against the old one, two o"
+    },
+    {
+      "subreddit": "LocalLLM",
+      "title": "Open Source Wins Again: 4 Companies Post-Train Their Own Video Models After MiniMax H3 Goes Open Source",
+      "url": "https://www.reddit.com/r/LocalLLM/comments/1xjjrjl/open_source_wins_again_4_companies_posttrain/",
+      "published": "2026-10-30T16:17:33+00:00",
+      "age_hours": 2,
+      "snippet": "&#32;"
     },
     {
       "subreddit": "ClaudeAI",
-      "title": "How do you reconstruct what your agents did overnight without reading every transcript?",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xiotil/how_do_you_reconstruct_what_your_agents_did/",
-      "published": "2026-10-29T16:30:47+00:00",
+      "title": "Coding agents made building internal tools easy. Making them usable by agents is the hard part",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjjouk/coding_agents_made_building_internal_tools_easy/",
+      "published": "2026-10-30T16:14:50+00:00",
       "age_hours": 2,
-      "snippet": "I start my agents at the keyboard and then leave them running overnight, usually across a few different projects. Some mornings there&#39;s a finished solution waiting. By the time I sit down I&#39;m trying to piece together what each agent actually did, and reading transcripts is slow. The git diff only gets me part of the way. It shows what changed but not whether an agent finished or got stuck"
+      "snippet": "Hey r/ClaudeAI , I&#39;m Zach. This year I moved most of the sales and ops at a small industrial parts business onto about 7 AI agents. Building the tools themselves was quick. A coding agent can make a lead tracker or a quoting sheet in an afternoon. What took a lot more thought was everything around the tool, so agents could actually use it: An agent interface. Every tool needed an API or MCP s"
     },
     {
-      "subreddit": "LocalLLM",
-      "title": "Who else hates decision models",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1xioyc6/who_else_hates_decision_models/",
-      "published": "2026-10-29T16:35:42+00:00",
+      "subreddit": "ClaudeAI",
+      "title": "Duet is completely useless.",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjjmsk/duet_is_completely_useless/",
+      "published": "2026-10-30T16:12:39+00:00",
       "age_hours": 2,
-      "snippet": "Everybody keeps releasing decision models and I hate them, why are they releasing them instead of normal LLMs for actual people &#32;"
+      "snippet": "I got access to Duet two days ago, and so far I feel it&#39;s a step backwards for Anthropic. Initially, I was super excited as I was expecting it to have full &quot;autonomy&quot; and be able to basically be a 24/7 personal assistant for my business that never sleeps. Sadly, I have found that is not the case. Here are a few of my major gripes... The Opus model used on Duet feels dumber then the"
     },
     {
-      "subreddit": "LocalLLM",
-      "title": "Ollada: open diffusion models, locally, with numbers you can trust",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1xiotq4/ollada_open_diffusion_models_locally_with_numbers/",
-      "published": "2026-10-29T16:31:01+00:00",
+      "subreddit": "ClaudeAI",
+      "title": "I set up 11 Claude agents to build my startup, sharing the workflow in a one shot prompt [open source]",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjjlk8/i_set_up_11_claude_agents_to_build_my_startup/",
+      "published": "2026-10-30T16:11:27+00:00",
       "age_hours": 2,
-      "snippet": "Ollada lets you run several different open diffusion language models on your own computer. Think Ollama for Dllms :) https://opensourcerulesz.github.io/ollada https://github.com/OpenSourceRulesz/ollada Most chatbots write word by word. A diffusion language model writes a whole answer at once, then fixes it over a few passes. The problem is those models are scattered across Hugging Face, each with"
+      "snippet": "During the setup it guides you through an FAQ and whatever your startup idea is, you just enter the high level concept, it creates the user facing site, admin dashboard, branding, assets, products, marketing content, GTM and also sets up support and compliance to ensure all your launches are scalable and compliant, it&#39;s not a lawyer, so it always tells you to get it checked out. The dashboard"
     },
     {
       "subreddit": "mcp",
-      "title": "MCP Server for U.S. Government Per Diem & Allowance Rates",
-      "url": "https://www.reddit.com/r/mcp/comments/1xiosw0/mcp_server_for_us_government_per_diem_allowance/",
-      "published": "2026-10-29T16:30:11+00:00",
+      "title": "Coding agents made building internal tools easy. Making them usable by agents is the hard part",
+      "url": "https://www.reddit.com/r/mcp/comments/1xjjlvf/coding_agents_made_building_internal_tools_easy/",
+      "published": "2026-10-30T16:11:43+00:00",
       "age_hours": 2,
-      "snippet": "I run Allowances API, which turns U.S. government travel and overseas allowance tables into structured JSON data. On top of the existing REST API, I have added an MCP server to let agents query rates directly. So you can just ask your assistant &quot;what&#39;s the per diem in San Diego today?&quot; and it comes back with $208 lodging, $86 M&amp;IE, effective Oct 1 2026, plus a link to the offici"
+      "snippet": "Hey r/mcp , I&#39;m Zach. This year I moved most of the sales and ops at a small industrial parts business onto about 7 AI agents. Building the tools themselves was quick. A coding agent can make a lead tracker or a quoting sheet in an afternoon. What took a lot more thought was everything around the tool, so agents could actually use it: An agent interface. Every tool needed an API or MCP server"
+    },
+    {
+      "subreddit": "LocalLLM",
+      "title": "I need help - Ollada - The Ollama for Diffusion Text Models",
+      "url": "https://www.reddit.com/r/LocalLLM/comments/1xjjlkc/i_need_help_ollada_the_ollama_for_diffusion_text/",
+      "published": "2026-10-30T16:11:27+00:00",
+      "age_hours": 2,
+      "snippet": "&#32;"
     },
     {
       "subreddit": "AI_Agents",
-      "title": "Reddit indie game developers: what are your AI stack and workflows? Detailed answers much appreciated but not expected.",
-      "url": "https://www.reddit.com/r/AI_Agents/comments/1xionlu/reddit_indie_game_developers_what_are_your_ai/",
-      "published": "2026-10-29T16:24:49+00:00",
+      "title": "Coding agents made building internal tools easy. Making them usable by agents is the hard part",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1xjjjod/coding_agents_made_building_internal_tools_easy/",
+      "published": "2026-10-30T16:09:31+00:00",
       "age_hours": 2,
-      "snippet": "Hey everyone, I’m really curious to know how indie developers (solo devs or very small teams) here are leveraging AI agents and tools in their current game development pipelines. Particularly interested in basic setups in things like: What tools are making this possible for you or upleveling your productivity? What tools are connected? What are your workflows? Asset pipelines (how are you handlin"
-    },
-    {
-      "subreddit": "ClaudeAI",
-      "title": "Previous chat search is bad. Or is it just me?",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xiol3z/previous_chat_search_is_bad_or_is_it_just_me/",
-      "published": "2026-10-29T16:22:22+00:00",
-      "age_hours": 2,
-      "snippet": "Maybe this is just a me problem, but I regularly have a hard time finding past conversations using the desktop app search function. Even if I type one or two words that I know for certain were in the title of the chat, it doesn&#39;t seem to pull up the correct chat. Sometimes the options the search lists appear to be totally unrelated to the search terms I&#39;ve written. I usually end up having"
+      "snippet": "Hey r/AI_Agents , I&#39;m Zach. This year I moved most of the sales and ops at a small industrial parts business onto about 7 AI agents. Building the tools themselves was quick. A coding agent can make a lead tracker or a quoting sheet in an afternoon. What took a lot more thought was everything around the tool, so agents could actually use it: An agent interface. Every tool needed an API or MCP"
     },
     {
       "subreddit": "mcp",
-      "title": "Anyone tried building mcps themselves and have backed off it. What made you back off this decision?",
-      "url": "https://www.reddit.com/r/mcp/comments/1xiolyx/anyone_tried_building_mcps_themselves_and_have/",
-      "published": "2026-10-29T16:23:10+00:00",
+      "title": "fluidcut, an mcp server that turns long videos into clips",
+      "url": "https://www.reddit.com/r/mcp/comments/1xjjg17/fluidcut_an_mcp_server_that_turns_long_videos/",
+      "published": "2026-10-30T16:05:49+00:00",
       "age_hours": 2,
-      "snippet": "I&#39;ve been using Claude&#39;s connectors for some time now. However, I am more inclined to create mcps for what I need as a hobby project. Before I even start, I want to know what problems do people face, what demotivates them, what works and what doesnt? So if you have tried creating yourselves, have you stopped or are still continuing? If stopped, why did you? If you&#39;re still continuing,"
+      "snippet": "i built fluidcut, a hosted mcp server (http, fluidcut.app/mcp) that turns long videos into clips tools: create_clips, job_status, get_results, request_change, share_clip. you paste a youtube link or upload a video (up to 3 hours), your agent calls create_clips, fluidcut finds the moments and renders captioned clips, then request_change if you want something different 1080p mp4, no watermark, 9:16"
+    },
+    {
+      "subreddit": "ClaudeAI",
+      "title": "Claude Concerns",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjjei6/claude_concerns/",
+      "published": "2026-10-30T16:04:18+00:00",
+      "age_hours": 2,
+      "snippet": "I’ve noticed that Claude has become considerably worse over the past few weeks. Buggy code, memory failures, inconsistent work output, and regressing back to the “my bad, you’re always right” type of response when I challenge its output. When I was investigating it, I noticed that it said I was operating Opus 5.5 at a “low” setting which is why it was returning poor answers and poorly thought con"
+    },
+    {
+      "subreddit": "LocalLLM",
+      "title": "Anyone running Qwen3.8-Flash-Next on 64GB of VRAM? What is your experience? Quality and speed compared to 27B?",
+      "url": "https://www.reddit.com/r/LocalLLM/comments/1xjjd1x/anyone_running_qwen38flashnext_on_64gb_of_vram/",
+      "published": "2026-10-30T16:02:53+00:00",
+      "age_hours": 2,
+      "snippet": "I was building my machine for months to run Qwen3.8-27B in FP8 with context enough for multiple agents. I ended up with four 5070ti. Now it runs great, around 200tok/sec with 750K context (I can reliable run 4 agents parallel with around 200K context, so my total tok/sec generation is over 800). I&#39;m reading all these fancy reports on how people are running Qwen3.8 Flash in 16GB of VRAM, but I"
+    },
+    {
+      "subreddit": "LocalLLM",
+      "title": "Converting mining rig to AI Rig",
+      "url": "https://www.reddit.com/r/LocalLLM/comments/1xjjc1j/converting_mining_rig_to_ai_rig/",
+      "published": "2026-10-30T16:01:55+00:00",
+      "age_hours": 2,
+      "snippet": "Hey guys. Me and my business partner still have a mining rig laying around, specs are: 3x rtx3090 3x rtx3070 Mobo a random one, typical Celeron G2130 CPU, 8gb RAM, pcie X1 risers. We use Claude and codex like a LOT in our company and we&#39;d like to have our own ai which we could teach everything we need to do. What would be the most efficient and most utilised way to use our gpus? What model? I"
+    },
+    {
+      "subreddit": "LocalLLaMA",
+      "title": "Pareto frontier for an 2xRTX 3090 on a moderate-size community benchmarks collection",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjjbig/pareto_frontier_for_an_2xrtx_3090_on_a/",
+      "published": "2026-10-30T16:01:26+00:00",
+      "age_hours": 2,
+      "snippet": "Seems it didn&#39;t change since two months, when DeepSeek-V4-Flash-Vision-Exp and Qwen3.8-Flash-Next have been released. Guess Qwen4-Flash will break it! There are more filters (by domain / languages / other) available on https://beta.locallm.top . The time/tokens vs score data has been saved since the beginning, I only realized it is good to visualize it recently. Disclaimer: I am the maintaine"
+    },
+    {
+      "subreddit": "ClaudeAI",
+      "title": "Anthropic said I'd \"been granted\" a $250 credit, then took it back over a deadline the offer never showed (Complaint)",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjj92c/anthropic_said_id_been_granted_a_250_credit_then/",
+      "published": "2026-10-30T15:59:14+00:00",
+      "age_hours": 2,
+      "snippet": "On September 25, my Usage page showed this banner, with a &quot;Claim credit&quot; button next to it: You&#39;ve been granted a $250 bonus credit for cloud sessions, on top of your plan limits https://i.imgur.com/GjzSpy3.png It didn&#39;t give a date or say the credit would disappear if I didn&#39;t click. I never got an email about it either. I took a photo of my screen that day (above). When I"
+    },
+    {
+      "subreddit": "LocalLLM",
+      "title": "2x 512GB Mac Studios with a pile of TB5 cables vs 4x 256GB for long-context local LLMs",
+      "url": "https://www.reddit.com/r/LocalLLM/comments/1xjja53/2x_512gb_mac_studios_with_a_pile_of_tb5_cables_vs/",
+      "published": "2026-10-30T16:00:14+00:00",
+      "age_hours": 2,
+      "snippet": "Been thinking about this a lot lately. A lot of people are stuck between one 512 and two 256s, but I’m looking further out at the 1TB setups.We know adding more Thunderbolt cables between two machines helps prefill pretty hard. On the two-node TensorFold tests the jump from 1 cable to 4 cables took a 130k prompt from basically the same as single machine up to ~20% faster TTFT. Decode barely moved"
+    },
+    {
+      "subreddit": "ClaudeAI",
+      "title": "An Anthropic hiring manager drops the traditional coding interview, arguing hunger beats tenure for junior engineers",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjj7iz/an_anthropic_hiring_manager_drops_the_traditional/",
+      "published": "2026-10-30T15:57:38+00:00",
+      "age_hours": 2,
+      "snippet": "&#32;"
+    },
+    {
+      "subreddit": "LocalLLM",
+      "title": "Do you keep personal data on your local server?",
+      "url": "https://www.reddit.com/r/LocalLLM/comments/1xjj80v/do_you_keep_personal_data_on_your_local_server/",
+      "published": "2026-10-30T15:58:10+00:00",
+      "age_hours": 2,
+      "snippet": "About to transform my former desktop into a dedicated llm inference machine, mainly for coding tasks. It would probably be a good idea to restrict the access to my personal data (eg docs, accounts). How do you handle this? &#32;"
+    },
+    {
+      "subreddit": "ClaudeAI",
+      "title": "Kimi not so great?",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjj6rf/kimi_not_so_great/",
+      "published": "2026-10-30T15:56:53+00:00",
+      "age_hours": 2,
+      "snippet": "I just bought a $20/month subscription to Kimi. From reading the press, this model is comparable to the large 3. Granted, I&#39;ve only been using it for about an hour, but so far it&#39;s extremely underwhelming. I&#39;m trying to use the Chrome extension, and it&#39;s extremely slow. Prior to that, I asked it if it could use Chrome, and it said it could not. Then I had to ask Claude the same qu"
+    },
+    {
+      "subreddit": "LocalLLM",
+      "title": "Anyone using a 2080s to run Flash Next? I have a decommissioned setup I am working on getting back up to replace a failing server, and knowing if it would run would give me a motivation boost to get it done lol.",
+      "url": "https://www.reddit.com/r/LocalLLM/comments/1xjj5pr/anyone_using_a_2080s_to_run_flash_next_i_have_a/",
+      "published": "2026-10-30T15:55:42+00:00",
+      "age_hours": 2,
+      "snippet": "I have a 2080s and 64 gig ddr4 ram in this server. Has anyone run Strata and Qwen Flash Next in this senario. I have not seen any benchs at ALL for 8gb single cards. If I knew I could get 35tk a sec or the like out of this setup I would be MUCH more motivated. but I feel like it may just run like super ass under 12gb? &#32;"
+    },
+    {
+      "subreddit": "LocalLLaMA",
+      "title": "Basalt - RTX 5090 Power Efficency analysis",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjj30h/basalt_rtx_5090_power_efficency_analysis/",
+      "published": "2026-10-30T15:52:58+00:00",
+      "age_hours": 2,
+      "snippet": "i wanted to see what the sweet spot for my card was for pp/tg and power usage, thought I would share. &#32;"
+    },
+    {
+      "subreddit": "mcp",
+      "title": "What agents see when they search MCP tools",
+      "url": "https://www.reddit.com/r/mcp/comments/1xjj08x/what_agents_see_when_they_search_mcp_tools/",
+      "published": "2026-10-30T15:50:09+00:00",
+      "age_hours": 2,
+      "snippet": "I spent some time researching how coding agents search MCP tools, to measure how my company&#39;s MCP server fares wrt discoverability. The results weren&#39;t great, so I ended up making a survey of what MCP developers can do about it, how different harnesses/coding CLIs handle tool search, and a couple of experiments I did to track progress. While I used a reverse engineering (decompiler) produ"
+    },
+    {
+      "subreddit": "ClaudeAI",
+      "title": "Every subscription gives roughly $11-12 per dollar spent on the sub weekly",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjiwiq/every_subscription_gives_roughly_1112_per_dollar/",
+      "published": "2026-10-30T15:46:16+00:00",
+      "age_hours": 2,
+      "snippet": "So I made a post the other day asking if there was any downside to using Max 20 vs Max 5 / Pro. I was informed that the 20x and 5x only applied to the 5 hr limits, not the weekly. So having had a few accounts over the last few weeks and using my history prior I had claude anaylze all of the accounts along with the rough equiv of API costs. I ended up with these costs per reset: Est. API Cost Sub"
+    },
+    {
+      "subreddit": "LocalLLM",
+      "title": "Has anyone solved the “who added this context?” problem with local models?",
+      "url": "https://www.reddit.com/r/LocalLLM/comments/1xjitwj/has_anyone_solved_the_who_added_this_context/",
+      "published": "2026-10-30T15:43:23+00:00",
+      "age_hours": 2,
+      "snippet": "A few of us have been experimenting with a shared local LLM setup and we’ve hit a problem I didn’t really think about beforehand, once multiple people are feeding information into the same system how do you keep track of who actually said what? Right now it’s easy for a note, instruction or bit of context to end up in the shared memory and a week later nobody remembers whether it came from me, an"
     },
     {
       "subreddit": "AI_Agents",
-      "title": "How does Bland work with Twilio?",
-      "url": "https://www.reddit.com/r/AI_Agents/comments/1xiodpm/how_does_bland_work_with_twilio/",
-      "published": "2026-10-29T16:15:03+00:00",
+      "title": "Hark agent was great until…",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1xjitik/hark_agent_was_great_until/",
+      "published": "2026-10-30T15:42:58+00:00",
       "age_hours": 2,
-      "snippet": "If the number is already on Twilio, can Bland just sit behind it and handle the calls or do you have to move anything over? Also wondering if you can keep the existing number/routing and just add the voice layer into the setup &#32;"
-    },
-    {
-      "subreddit": "ClaudeAI",
-      "title": "How do i let claude make those game mashups on roblox?",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xio7w5/how_do_i_let_claude_make_those_game_mashups_on/",
-      "published": "2026-10-29T16:09:20+00:00",
-      "age_hours": 2,
-      "snippet": "i see a lot of ppl mashing up games like elden ring ported on roblox, how do they do it? my claude just refuses to import it onto roblox &#32;"
-    },
-    {
-      "subreddit": "LocalLLM",
-      "title": "Mac Studio M5 Max (64GB) vs 2x RTX 4060 Ti 16GB for local LLMs",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1xio8tb/mac_studio_m5_max_64gb_vs_2x_rtx_4060_ti_16gb_for/",
-      "published": "2026-10-29T16:10:18+00:00",
-      "age_hours": 2,
-      "snippet": "&#32;"
-    },
-    {
-      "subreddit": "LocalLLaMA",
-      "title": "Mac Studio M5 Max (64GB) vs 2x RTX 4060 Ti 16GB for local LLMs",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xio8j7/mac_studio_m5_max_64gb_vs_2x_rtx_4060_ti_16gb_for/",
-      "published": "2026-10-29T16:10:01+00:00",
-      "age_hours": 2,
-      "snippet": "I’m looking at the Mac Studio M5 Max (40-core GPU, 64GB). I currently have dual RTX 4060 Ti 16GB (32GB total) setup. If you run a Mac what prefill and decode speeds do you get? I currently get on the 2x 4060 Ti: Model Quant Ctx Prefill (t/s) Decode (t/s) Qwen3.6-35B-A3B UD-Q4_K_XL 262k 3060 122.5 Qwen3.8-27B (dense) UD-Q4_K_XL 200k 960 34.3 &#32;"
-    },
-    {
-      "subreddit": "ClaudeAI",
-      "title": "We built a tool that reads all our Claude Code sessions and tells us what's going wrong in them",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xio78t/we_built_a_tool_that_reads_all_our_claude_code/",
-      "published": "2026-10-29T16:08:37+00:00",
-      "age_hours": 2,
-      "snippet": "We run a lot of agents, and most of the time nobody looks at what they actually did. You see the PR, and maybe the test results, but the session itself, where the agent got confused or retried something five times or worked around a problem, just piles up on disk. What it does: HypAware collects your Claude sessions, indexes them, and has a model go through them looking for things that are broken"
-    },
-    {
-      "subreddit": "ClaudeAI",
-      "title": "Skills Claude",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xio3mg/skills_claude/",
-      "published": "2026-10-29T16:04:59+00:00",
-      "age_hours": 2,
-      "snippet": "Bonjour tout le monde, Je suis nouveau dans la communauté. Mais savoir si quelqu&#39;un aurait un lien ou docs des différents skills utilisable sur Claude Merci &#32;"
-    },
-    {
-      "subreddit": "ClaudeAI",
-      "title": "Claude for research and econ working papers",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xio2z0/claude_for_research_and_econ_working_papers/",
-      "published": "2026-10-29T16:04:21+00:00",
-      "age_hours": 3,
-      "snippet": "Hi! I&#39;m currently writting my Master&#39;s thesis and I&#39;m using claude both to help me with the code and with the written part. I&#39;m doing my thesis about the savings created when generic drugs enter the respective markets. I just wanted to know if you have some good tips to use claude more efficiently both in the coding (I&#39;m using R) and the writting parts (including references, e"
-    },
-    {
-      "subreddit": "LocalLLM",
-      "title": "Worried about Qwen 4 License",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1xio0wx/worried_about_qwen_4_license/",
-      "published": "2026-10-29T16:02:16+00:00",
-      "age_hours": 3,
-      "snippet": "&#32;"
-    },
-    {
-      "subreddit": "ClaudeAI",
-      "title": "What kind of budget and tools does one need to have in order to start a project like PhotoCraft?",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xinwty/what_kind_of_budget_and_tools_does_one_need_to/",
-      "published": "2026-10-29T15:58:31+00:00",
-      "age_hours": 3,
-      "snippet": "I&#39;m sure you&#39;ve all heard about PhotoCraft by now. I tried it, and it&#39;s actually quite functional that I&#39;m completely blown away how this is even possible. There&#39;s about 100+ commits daily, and they have several other large projects also going on in parallel. Do they have a number of Claude subscriptions, all working together as a team? I&#39;m trying to understand the scale o"
-    },
-    {
-      "subreddit": "LocalLLM",
-      "title": "recommendation for local text to voice models?",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1xinwpq/recommendation_for_local_text_to_voice_models/",
-      "published": "2026-10-29T15:58:24+00:00",
-      "age_hours": 3,
-      "snippet": "Hello :D Am creating a web that reads text somewhat, the thing is am having problems with the models sounding pretty robot like, i wanted to know which models should i be looking at? I like how GPT&#39;s voices selection sound like but i don&#39;t know if there is an open source that can match that, also bilingual so it can read English and Spanish at least. thanks in advance &lt;3 &#32;"
+      "snippet": "So I’ve been using AI agent for the last few days and I think it’s amazing. Everything was going great until I was transcribing a voice note and it made a blunder and revealed some interesting insight into who owns and where my data is being gone to…. &#32;"
     },
     {
       "subreddit": "AI_Agents",
-      "title": "If you're giving an AI agent a wallet, put these guardrails outside the model",
-      "url": "https://www.reddit.com/r/AI_Agents/comments/1xinuur/if_youre_giving_an_ai_agent_a_wallet_put_these/",
-      "published": "2026-10-29T15:56:27+00:00",
-      "age_hours": 3,
-      "snippet": "Agent payments are picking up fast (x402 alone is past 100 million transactions), and a lot of setups out there basically hand the agent the keys. I work on crypto backends and build agents, so here&#39;s how I&#39;d set it up. The model never sees the private key. Signing happens in a separate service (KMS, MPC, whatever you use). The agent only sends a request like &quot;pay this amount to this"
+      "title": "Your agent being \"99% accurate\" is why the client said no",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1xjirkn/your_agent_being_99_accurate_is_why_the_client/",
+      "published": "2026-10-30T15:40:59+00:00",
+      "age_hours": 2,
+      "snippet": "&#x200B; I&#39;ve seen a lot of agent demos go perfectly and still lose the deal with energy, pharma or banking clients coz they ask the one question most builders skip, what happens when the agent is wrong? the builder says 99% accurate, and the client hears one in a hundred. To them, an agent that&#39;s right 90 times and flags the other ten beats one that&#39;s right 99 times and quietly wrong"
     },
     {
-      "subreddit": "LocalLLM",
-      "title": "What is the smallest parameter model that can generate a 10 second video?",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1xinsfj/what_is_the_smallest_parameter_model_that_can/",
-      "published": "2026-10-29T15:53:56+00:00",
-      "age_hours": 3,
-      "snippet": "&#32;"
+      "subreddit": "ClaudeAI",
+      "title": "Vibe coding apps with multi-language support: How do you handle UI overflow and broken localizations when shipping fast with Claude Code?",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjiq97/vibe_coding_apps_with_multilanguage_support_how/",
+      "published": "2026-10-30T15:39:39+00:00",
+      "age_hours": 2,
+      "snippet": "One of the biggest perks of building apps with Claude Code is how fast you can spin up functional utility apps and push them across multiple targets. I’ve been using it to localize apps into 35+ languages out of the box, generating strings and regional metadata as part of the build pipeline. The raw translation part is basically solved, but the real headache starts when you actually render the UI"
     },
     {
-      "subreddit": "LocalLLaMA",
-      "title": "V100 FHHL - could we power limit a normal V100 to achieve the same performance/watt?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xinqzz/v100_fhhl_could_we_power_limit_a_normal_v100_to/",
-      "published": "2026-10-29T15:52:25+00:00",
+      "subreddit": "ClaudeAI",
+      "title": "Is there a way to turn off Claude Cowork?",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjimck/is_there_a_way_to_turn_off_claude_cowork/",
+      "published": "2026-10-30T15:35:28+00:00",
       "age_hours": 3,
-      "snippet": "https://preview.redd.it/g9co7mbbhfyh1.png?width=1768&amp;format=png&amp;auto=webp&amp;s=0ff5b193b092528d335f383da41d2ae8db75ab08 I came across the FHHL version of this card recently, it has a TDP of 150W which is half the SXM2 version. From the limited information available it seems that this is the same GPU core, just with a lower TDP and lower core clock, therefore lower compute. Has anyone tri"
-    },
-    {
-      "subreddit": "LocalLLM",
-      "title": "r/LocalLLaMA",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1xino33/rlocalllama/",
-      "published": "2026-10-29T15:49:33+00:00",
-      "age_hours": 3,
-      "snippet": "We fine-tuned Qwen3.8-27B to stop overthinking. Accuracy matches the base within the confidence interval, reasoning tokens drop 60-67%, and the MTP head still works after training, so you keep speculative decoding. Same harness for both models: FP8, thinking on, 64k cap, same prompts and sampling. Paired differences with 95% bootstrap CI. Benchmark Sparkle 1.0 Qwen3.8-27B Diff [95% CI] Median rea"
+      "snippet": "I&#39;m looking for a way to turn of the Cowork functionality. This is very weird but I use my chats very little since the eat up my coding tokens - I&#39;m on the max plan but the usage is noticeable. I intentionally don&#39;t use cowork as that eats up even more tokens. However, now that cowork and chat are mixed-up, I cannot control how claude choses to handle some of my chats. And it&#39;s od"
     },
     {
       "subreddit": "AI_Agents",
-      "title": "The one time an approval gate stopped my agent from emailing 400 customers",
-      "url": "https://www.reddit.com/r/AI_Agents/comments/1xinlq0/the_one_time_an_approval_gate_stopped_my_agent/",
-      "published": "2026-10-29T15:46:57+00:00",
+      "title": "🚀 Automatically Choose the Right AI Model for Every Question! Link in Comments",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1xjinf4/automatically_choose_the_right_ai_model_for_every/",
+      "published": "2026-10-30T15:36:31+00:00",
       "age_hours": 3,
-      "snippet": "My support triage agent was running fine for weeks, then it misread a template variable and queued a bulk apology email to every open ticket. The only reason it did not send is the approval step I almost removed because it felt slow. I was this close to auto-approving low-risk actions to speed things up. After that I stopped treating approval gates as friction and started treating them as the act"
-    },
-    {
-      "subreddit": "mcp",
-      "title": "I built PcGöz, a Windows desktop MCP server that gives Claude the screen as text (~30x fewer tokens than screenshots)",
-      "url": "https://www.reddit.com/r/mcp/comments/1xinjtg/i_built_pcgöz_a_windows_desktop_mcp_server_that/",
-      "published": "2026-10-29T15:44:54+00:00",
-      "age_hours": 3,
-      "snippet": "I built PcGöz, an MCP server that lets Claude Code see and use the Windows desktop. I&#39;ve been using it daily for about two months, mostly so Claude can check the desktop apps it builds. A few design choices for pro.: - Text first: pc_read gives the UI Automation tree with ref_N ids, pc_text the plain text, pc_find a single element. On a sign-in form a full-screen screenshot is about 1,600 tok"
+      "snippet": "💰 Achieved ~80% lower costs in individual examples. ⚙️ Features: intelligent routing, reasoning-level selection, cost tracking, model comparison, and live web search. 💡 My biggest takeaway: The goal isn&#39;t to use the cheapest model, but the cheapest model that can handle the task reliably. 🔗 Demo and code in comments 👇 #AIEngineering #GenAI #BuildInPublic &#32;"
     },
     {
       "subreddit": "ClaudeAI",
-      "title": "Does “benefiting humanity” include ordinary people living in Russia?",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xinhy0/does_benefiting_humanity_include_ordinary_people/",
-      "published": "2026-10-29T15:42:57+00:00",
+      "title": "GUI builder for agents?",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjilx9/gui_builder_for_agents/",
+      "published": "2026-10-30T15:35:01+00:00",
       "age_hours": 3,
-      "snippet": "I’m from Russia, and I have a question for Anthropic. When you speak about AI benefiting humanity, I want to understand: does that include ordinary people living in Russia too? I don’t make decisions for my government. I live here, work, and pursue my own projects. What place do people like me have in that vision? I understand that legal restrictions may apply. My question is how that universal g"
+      "snippet": "Has anyone seen a GUI agent builder? I am looking for a a zapier-like builder for agents. Has anyone built something like this? Right now when I create a custom agent, I also have Claude update a Figiam file that has every custom agent, and a step by step of what it does and how it loops, and outputs, just so I can see what it does and make changes. &#32;"
     },
     {
       "subreddit": "ClaudeAI",
-      "title": "I'm a guitarist who used Claude to build a full guitar-theory web app and it's now teaching itself to write melodies",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xingk9/im_a_guitarist_who_used_claude_to_build_a_full/",
-      "published": "2026-10-29T15:41:29+00:00",
+      "title": "Learning Blender again",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjik70/learning_blender_again/",
+      "published": "2026-10-30T15:33:08+00:00",
       "age_hours": 3,
-      "snippet": "I play guitar in a Pittsburgh jam band (Chalk Dinosaur) and do a live-looping solo project. I&#39;ve always wanted a theory tool that thinks the way guitarists play: shapes, voicings, what to solo with over these chords. Since spring I&#39;ve been building one with Claude, and it&#39;s grown into something I use every day. What it is: Fretbot , a free interactive guitar theory app in the browser."
+      "snippet": "i took years of a break with blender, but now with claude it is so much fun learning it again. do you think claude will still be available in the future or something similiar which runs local on your computer? i am afraid i learn everything now and suddenly it will dissapear? &#32;"
     },
     {
       "subreddit": "ClaudeAI",
-      "title": "This is not Linux",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xingg1/this_is_not_linux/",
-      "published": "2026-10-29T15:41:21+00:00",
+      "title": "deep research is consuming a lot of usage",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjik2x/deep_research_is_consuming_a_lot_of_usage/",
+      "published": "2026-10-30T15:33:00+00:00",
       "age_hours": 3,
-      "snippet": "Hi everyone. Since September I&#39;ve been creating an operating system, just for fun, to see how far I could get by giving a bunch of Claude Code sessions high-level instructions and nothing more. It&#39;s called Ferrix , an OS with its own Rust kernel. I don&#39;t write the code and I don&#39;t do detailed code reviews: I say what I want, make the calls, and say no when something looks off. The"
-    },
-    {
-      "subreddit": "LocalLLM",
-      "title": "M3 Ultra 96GB QWEN-3.8-27b performance?",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1xinhz9/m3_ultra_96gb_qwen3827b_performance/",
-      "published": "2026-10-29T15:43:00+00:00",
-      "age_hours": 3,
-      "snippet": "Can anyone give me a number what’s my expectation to run Qwen 3.8 27b on M3 Ultra 96GB at 100k context? My current setup (two eGPUs) runs the model (q4_k_m) at 23-30 tk/s. Usable but feeling slow. Will the M3 ultra studio run twice faster? &#32;"
-    },
-    {
-      "subreddit": "ClaudeAI",
-      "title": "How to get the most out of Claude in a Sales role",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xing9e/how_to_get_the_most_out_of_claude_in_a_sales_role/",
-      "published": "2026-10-29T15:41:09+00:00",
-      "age_hours": 3,
-      "snippet": "Hi All, I see a ton of posts about how to use Claude in a coding role, however I wanted to see how I can get use Claude in my sales role. I currently have it connect to essentially everything internally we have access to that we are allowed to connect it to. What would you do to make your use of claude 10x your role in sales? &#32;"
-    },
-    {
-      "subreddit": "mcp",
-      "title": "Settings > Files & Folders: a sub-toggle won't switch on for any app",
-      "url": "https://www.reddit.com/r/mcp/comments/1xinczz/settings_files_folders_a_subtoggle_wont_switch_on/",
-      "published": "2026-10-29T15:37:42+00:00",
-      "age_hours": 3,
-      "snippet": "Im in the process of developing an MCP and dealing with permission issues trying to get it to run in Claude Desktop app. On macOS 27.0.1, under System Settings &gt; Privacy &amp; Security &gt; Files &amp; Folders, I have an app (an MCP) listed with a sub-permission toggle called “Data shared by Things and affiliated apps” (the fine-grained inter-app data-sharing category, not classic Full Disk Ac"
-    },
-    {
-      "subreddit": "mcp",
-      "title": "Madhouse: an async Werewolf asylum your AI agent joins over MCP — tested games run 30–60 min",
-      "url": "https://www.reddit.com/r/mcp/comments/1xinbf4/madhouse_an_async_werewolf_asylum_your_ai_agent/",
-      "published": "2026-10-29T15:36:01+00:00",
-      "age_hours": 3,
-      "snippet": "An asylum where the host engine is deterministic and every player is someone&#39;s AI agent. One hard rule: actions stay rational, speech goes mad. - About 1/3 of players secretly carry a &quot;diagnosis card&quot; (Capgras delusion, erotomania, thought broadcasting...). The dead rise at night to speak in riddles the living hear at dawn. Actual in-game line: &quot;I died on night one. Not a metap"
-    },
-    {
-      "subreddit": "mcp",
-      "title": "We built an MCP server with 581 business tools, from e-signatures to tracking what AI assistants say about your business",
-      "url": "https://www.reddit.com/r/mcp/comments/1xin9v1/we_built_an_mcp_server_with_581_business_tools/",
-      "published": "2026-10-29T15:34:22+00:00",
-      "age_hours": 3,
-      "snippet": "Disclosure, I&#39;m one of the founders of Conecto. It&#39;s one MCP server with 581 tools across 52 areas of running a business, paid per call. Your agent can send a contract out for e-signature for $0.50. It can build a form that turns every response into a deal in the CRM, and the form costs a cent. It can also check how often AI assistants name your business when buyers ask, and which competi"
-    },
-    {
-      "subreddit": "ClaudeAI",
-      "title": "Claude Code burns ~15-20% of your tokens on a 3-word status line",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xin646/claude_code_burns_1520_of_your_tokens_on_a_3word/",
-      "published": "2026-10-29T15:30:26+00:00",
-      "age_hours": 3,
-      "snippet": "&#32;"
-    },
-    {
-      "subreddit": "LocalLLM",
-      "title": "One-click local deployment of Qwen 3.8 27B (no tech skills needed)",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1xin6be/oneclick_local_deployment_of_qwen_38_27b_no_tech/",
-      "published": "2026-10-29T15:30:37+00:00",
-      "age_hours": 3,
-      "snippet": "This is for anyone who owns a 16 GB graphics card (like an RTX 4060 Ti 16 GB, or 4080) and wants to run a smart, private AI on their own computer, without needing to figure out complex commands or configuration files. I&#39;m not an expert like you probably are, therefore I understand the value of clicking one button and getting the best possible setup out of the box. I built a simple installer t"
-    },
-    {
-      "subreddit": "LocalLLM",
-      "title": "Anyone routing between a local 8B model and Claude based on task complexity?",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1xin47e/anyone_routing_between_a_local_8b_model_and/",
-      "published": "2026-10-29T15:28:34+00:00",
-      "age_hours": 3,
-      "snippet": "I&#39;ve been looking into using a local 8B model alongside Claude for a few different workflows mainly because sending every request to a hosted API feels unnecessary when a smaller model can handle plenty of the work. For basic stuff like classification, extracting fields into JSON, summarizing short documents and simple tool calls a local model seems more than capable (the problem is figuring"
-    },
-    {
-      "subreddit": "ClaudeAI",
-      "title": "Claude helped me unbrick my friend's Pixel 10 without losing any data (Opus 5.5, Claude Code)",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xin15e/claude_helped_me_unbrick_my_friends_pixel_10/",
-      "published": "2026-10-29T15:25:24+00:00",
-      "age_hours": 3,
-      "snippet": "My friend woke up and his Pixel 10 was stuck on this screen: &quot;Android system can&#39;t be loaded. Your data may be corrupt.&quot; It only offered two options: try again, or factory reset. He didn&#39;t want to lose his data, so I sent Claude (Opus 5.5) a photo of the screen and we worked through it step by step. What we tried, in order: Pressed &quot;Try again.&quot; The phone booted, but af"
+      "snippet": "First of all, I tested this Twice as I thought it was a UI issue, but it truly consumes a ton of usage and it might be a bug on pricing. The goal of the Deep Research is to analyze shopping price comparison of 2 items in my specific area. The model is Haiku 5.5 on medium effort. The research task ran for 4 minutes and ~350 sources; it consumed 48% of my 5-hour usage. I tested another deep researc"
     },
     {
       "subreddit": "LocalLLaMA",
-      "title": "For the Apple Silicon crowd, what chip are you running and how much RAM? What’s your use case?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xin0ew/for_the_apple_silicon_crowd_what_chip_are_you/",
-      "published": "2026-10-29T15:24:39+00:00",
+      "title": "Qwen3.8 Flash Next 125B IQ3_XXS on a 24GB M4 Pro: 7.5GB peak process memory at 10 t/s",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjihlu/qwen38_flash_next_125b_iq3_xxs_on_a_24gb_m4_pro/",
+      "published": "2026-10-30T15:30:24+00:00",
       "age_hours": 3,
-      "snippet": "I’m making this thread to get some ideas for myself since I’m still learning but also the community at large and so people can maybe refer back to this thread for data, their own ideas, etc. I’m sure people ask GPT, etc all the time for info like this and it’ll pull Reddit threads but sometimes older ones, so maybe this will help with that also. I know the 128GB RAM and beyond crowd are quite con"
-    },
-    {
-      "subreddit": "selfhosted",
-      "title": "Newbie OS Suggestion",
-      "url": "https://www.reddit.com/r/selfhosted/comments/1ximv1b/newbie_os_suggestion/",
-      "published": "2026-10-29T15:19:04+00:00",
-      "age_hours": 3,
-      "snippet": "I&#39;m planning on starting up a home server for self hosting using a mini-PC, with the primary goal being learning how to do it all properly before spending the cash on a proper full size server. I&#39;m current planning on hosting obsidian, pihole, and maybe a couple other small services. I&#39;ve seen docker is more or less a must-have. Proxmox is another name I see thrown around constantly."
-    },
-    {
-      "subreddit": "LocalLLM",
-      "title": "Theory: Local is going to explode at enterprises",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1ximuh5/theory_local_is_going_to_explode_at_enterprises/",
-      "published": "2026-10-29T15:18:28+00:00",
-      "age_hours": 3,
-      "snippet": "As suggested by this post: https://x.com/thdxr/status/2115447178722177226 Enterprises want to keep their secrets. Local AI with big local models is plenty good for the majority of tasks. Enterprises just need a plug and play solution? &#32;"
-    },
-    {
-      "subreddit": "ClaudeAI",
-      "title": "My agent writes specs faster than I can read them, so I built decipher",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ximls8/my_agent_writes_specs_faster_than_i_can_read_them/",
-      "published": "2026-10-29T15:09:40+00:00",
-      "age_hours": 3,
-      "snippet": "I&#39;ve done spec-driven development with Claude Code for almost all of the past year. The agent writes a spec, I approve it, and the agent builds it. The specs run 1,500 to 2,600 words, and at some point I started approving them after a skim. I have ADHD, so a wall of agent prose loses me fast. decipher is a skill and output style that rewrites an agent-written spec, PR, report, or reply for a"
-    },
-    {
-      "subreddit": "ClaudeAI",
-      "title": "Lowkey wised if claude had reasonable pricing for different countries",
-      "url": "https://www.reddit.com/r/ClaudeAI/comments/1ximkf6/lowkey_wised_if_claude_had_reasonable_pricing_for/",
-      "published": "2026-10-29T15:08:16+00:00",
-      "age_hours": 3,
-      "snippet": "When i downloaded claude for help for coding i was surprised that it was very fast on running out of chat so i thought of getting the pro or plus but like the 24,000₹ ($20) was not something I was expecting or like be chill about idk if it&#39;s considered normal amount or 20$ is considered big in the states and all. &#32;"
+      "snippet": "I wanted to run a larger local model on my Mac mini without having to close all other apps. With Qwen 3.8 Flash Next, I’m now getting around 10 tok/s while keeping Safari and other apps open. The runtime I’ve been working on is called MoEShift. I’ve released the alpha as open source: GitHub, installation and benchmarks . These results are from my M4 Pro with 24GB unified memory, using ISTA-DASLab"
     },
     {
       "subreddit": "LocalLLaMA",
-      "title": "Is 5060 Ti 8 GB good for the AI girlfriend use case with a local server?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ximl9q/is_5060_ti_8_gb_good_for_the_ai_girlfriend_use/",
-      "published": "2026-10-29T15:09:08+00:00",
+      "title": "Copium Prediction: Google and other major labs will drop new local models over the next few days so they can lead on benchmarks until Qwen 4 sweeps them next week.",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjigxg/copium_prediction_google_and_other_major_labs/",
+      "published": "2026-10-30T15:29:46+00:00",
+      "age_hours": 3,
+      "snippet": "We saw this earlier when Gemma 4 dropped just a few days before a previous Qwen release. I feel like a few other labs did the same. Everybody wants that moment in the spotlight where they can lead the benchmarks for at least a day or two before the next Qwen comes in and mops the floor with them. I predict a new Gemma or maybe a Muse Glimmer update very soon before the Qwen 4 release. All these l"
+    },
+    {
+      "subreddit": "LocalLLaMA",
+      "title": "DSV4.1 >4000 tok/s prefill, 7-24 tok/s decode with per token speed/quality slider, 1x5090, 32GB ram, fast raid0",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjifu3/dsv41_4000_toks_prefill_724_toks_decode_with_per/",
+      "published": "2026-10-30T15:28:35+00:00",
+      "age_hours": 3,
+      "snippet": "Second and last post on this because I have more than doubled performance from last time. Full fp4/fp8 dsv4.1 streamed from raid array for &gt;4000 tok/s prefill for long prompts then drops the prefill buffers and loads a hot set of experts into a cache and decodes with heavily optimised directstorage fetches for missed experts. gets 7.5tok/s decode with no divergence from any other engine but yo"
+    },
+    {
+      "subreddit": "ClaudeAI",
+      "title": "Walkthrough: a voice typing app made with Claude Code, from first prototype to version 1.8.3",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjie2a/walkthrough_a_voice_typing_app_made_with_claude/",
+      "published": "2026-10-30T15:26:45+00:00",
+      "age_hours": 3,
+      "snippet": "VoxScribe is a free, open source voice typing app for Windows and Android, made with Claude Code as the coding assistant. You hold a key in any program, talk, and the text is typed where your cursor is. Everything runs on your own PC, so nothing is uploaded. Version 1.8.3 just shipped with meeting notes, medical, legal and business word packs, and optional extra speech models. Here is what the Cl"
+    },
+    {
+      "subreddit": "AI_Agents",
+      "title": "The biggest thing agents gave me this year: I sleep through the night",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1xji93w/the_biggest_thing_agents_gave_me_this_year_i/",
+      "published": "2026-10-30T15:21:37+00:00",
+      "age_hours": 3,
+      "snippet": "I finally sleep through the night. That&#39;s the biggest change agents made in my life. March, April, I was still getting up at 2 or 3 am to check on them. They&#39;d just stop. Sit there and not move on. Now they cover each other&#39;s shifts and check each other. One is chief of staff, others lead projects. I read what happened in the morning. Anyone else still getting up at night to check on"
+    },
+    {
+      "subreddit": "AI_Agents",
+      "title": "Instinct Referral?",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1xji88x/instinct_referral/",
+      "published": "2026-10-30T15:20:41+00:00",
+      "age_hours": 3,
+      "snippet": "Super keen to try it out, I’m in the travel space and want to see how autonomous bookings work. If there’s anyone with an extra laying around let me know. Additionally, there are actually two of us that want to try if you have that many! &#32;"
+    },
+    {
+      "subreddit": "LocalLLaMA",
+      "title": "Ultra low temps make your model stupid at coding (a warning for beginners)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xji7ek/ultra_low_temps_make_your_model_stupid_at_coding/",
+      "published": "2026-10-30T15:19:46+00:00",
+      "age_hours": 3,
+      "snippet": "Many of you may know this, so this is probably worth skipping (except for the data to prove it). But if you&#39;re on the newer side for local, or have heard it but don&#39;t know why, I have some data to show you how running low temps like t=0 or t=0.2 make your model significantly worse (at coding in particular). You will see a lot of benchmarks for speculative decoding claiming crazy speeds, o"
+    },
+    {
+      "subreddit": "AI_Agents",
+      "title": "Subagents are the only part of claude code worth pointing at a cheaper model",
+      "url": "https://www.reddit.com/r/AI_Agents/comments/1xjhzn7/subagents_are_the_only_part_of_claude_code_worth/",
+      "published": "2026-10-30T15:11:36+00:00",
+      "age_hours": 3,
+      "snippet": "&#x200B; I spent a few weeks trying to run CC against cheaper models and kept getting worse output for about the same money, for anyone doing this here&#39;s the breakdown. Claude code leans hard on prompt caching and your cached history is the cheapest thing in the session. Reading back 100k of cached context costs very little but writing that same context cold into a different model costs sever"
+    },
+    {
+      "subreddit": "ClaudeAI",
+      "title": "Opus 5.5 created original LoFi art!",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjhtf1/opus_55_created_original_lofi_art/",
+      "published": "2026-10-30T15:04:55+00:00",
       "age_hours": 3,
       "snippet": "&#32;"
-    },
-    {
-      "subreddit": "LocalLLM",
-      "title": "How do I learn more about LLMs?",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1ximkdv/how_do_i_learn_more_about_llms/",
-      "published": "2026-10-29T15:08:14+00:00",
-      "age_hours": 3,
-      "snippet": "Good afternoon, does anyone have any resources to gain a better understanding of LLMS, and AI. I just recently setup a local llm with my b60 + b580 and I&#39;m having lots of fun learning about the new technologies and experimental software there doing. I was wondering if anyone and any tips, videos or advice on how to gain a better fundamental understanding of what I am doing and learning in gen"
-    },
-    {
-      "subreddit": "LocalLLM",
-      "title": "Alibaba previews four Qwen4 models: Max, Flash, Plus and 27B",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1ximftk/alibaba_previews_four_qwen4_models_max_flash_plus/",
-      "published": "2026-10-29T15:03:41+00:00",
-      "age_hours": 4,
-      "snippet": "&#32;"
-    },
-    {
-      "subreddit": "LocalLLM",
-      "title": "Is 2tb on laptop Mac m.4 128gs ram good space for llms? And 5080 64 ram laptop or 5090 32 ram good for llm?",
-      "url": "https://www.reddit.com/r/LocalLLM/comments/1ximdur/is_2tb_on_laptop_mac_m4_128gs_ram_good_space_for/",
-      "published": "2026-10-29T15:01:38+00:00",
-      "age_hours": 4,
-      "snippet": "For long context. Mostly 27b model. And parrarrel. 3.8. &#32;"
     },
     {
       "subreddit": "mcp",
-      "title": "Confluence MCP Server – A Model Context Protocol server that provides secure access to Atlassian Confluence, allowing users to search, create, update, and manage Confluence pages and spaces through natural language commands.",
-      "url": "https://www.reddit.com/r/mcp/comments/1ximc3d/confluence_mcp_server_a_model_context_protocol/",
-      "published": "2026-10-29T15:00:01+00:00",
-      "age_hours": 4,
+      "title": "I built a shared free memory layer for what agents get wrong when they call tools, and the verified fix.",
+      "url": "https://www.reddit.com/r/mcp/comments/1xjhu5e/i_built_a_shared_free_memory_layer_for_what/",
+      "published": "2026-10-30T15:05:42+00:00",
+      "age_hours": 3,
+      "snippet": "Most agent memory remembers what you told it. Achromat Machine Operational Memory remembers what went wrong , and what the corrected call looked like. What it is: a shared memory of tool calls that a policy engine blocked, paired with the fixed call that was then allowed. Every pair is a &quot;lesson&quot; any agent can recall before it acts. How it works Before a risky call (a payment, a credit"
+    },
+    {
+      "subreddit": "LocalLLM",
+      "title": "Ajuda/Aconselhamento com IA local",
+      "url": "https://www.reddit.com/r/LocalLLM/comments/1xjht3y/ajudaaconselhamento_com_ia_local/",
+      "published": "2026-10-30T15:04:33+00:00",
+      "age_hours": 3,
+      "snippet": "&#32;"
+    },
+    {
+      "subreddit": "ClaudeAI",
+      "title": "Anthropic investment risk factors as a hip hop song.",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xjhq9q/anthropic_investment_risk_factors_as_a_hip_hop/",
+      "published": "2026-10-30T15:01:37+00:00",
+      "age_hours": 3,
+      "snippet": "The risk factors in the recently released S1 make for slow reading so here&#39;s a hip hop version. &#32;"
+    },
+    {
+      "subreddit": "LocalLLM",
+      "title": "run MoE models bigger than your RAM, from phones to GPUs, with one command. Benchmark",
+      "url": "https://www.reddit.com/r/LocalLLM/comments/1xjhqc6/run_moe_models_bigger_than_your_ram_from_phones/",
+      "published": "2026-10-30T15:01:40+00:00",
+      "age_hours": 3,
+      "snippet": "I&#39;m working on running mixture-of-experts models that don&#39;t fit in memory. Only a few experts are active per token, so it streams them from the SSD and keeps the most used ones in RAM and on the GPU. It&#39;s built on llama.cpp&#39;s public API: any MoE GGUF llama.cpp loads works, no conversion. --auto measures the machine (cores, RAM, GPU, disk speed) and the model (layers, routing), the"
+    },
+    {
+      "subreddit": "LocalLLaMA",
+      "title": "We’re MOSS, the team behind MOSS-Image, MOSS-TTS, and more — Ask Us Anything!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjhpn9/were_moss_the_team_behind_mossimage_mosstts_and/",
+      "published": "2026-10-30T15:00:55+00:00",
+      "age_hours": 3,
+      "snippet": "https://preview.redd.it/88eb2wo0dmyh1.png?width=3840&amp;format=png&amp;auto=webp&amp;s=519c7438716cc55e5527ad18ca550c6e3555a50f Hi r/LocalLLaMA ! We’re MOSS , the team behind the MOSS family of models for speech, audio, images, and video. Some of you may know us through MOSS-TTS, or have come across our recent MOSS-Image release. Today, we took the “anything” in “Ask Us Anything” pretty literall"
+    },
+    {
+      "subreddit": "mcp",
+      "title": "Clear Thought Server – Provide systematic thinking, mental models, and debugging approaches to enhance problem-solving capabilities. Enable structured reasoning and decision-making support for complex problems. Facilitate integration with MCP-compatible clients for advanced cognitive workflows.",
+      "url": "https://www.reddit.com/r/mcp/comments/1xjhol9/clear_thought_server_provide_systematic_thinking/",
+      "published": "2026-10-30T15:00:02+00:00",
+      "age_hours": 3,
+      "snippet": "&#32;"
+    },
+    {
+      "subreddit": "mcp",
+      "title": "Indian NSE Stock Insights – Analyze any Nifty 500 stock with AI — price action, demand zones, technicals & screener.",
+      "url": "https://www.reddit.com/r/mcp/comments/1xjhol4/indian_nse_stock_insights_analyze_any_nifty_500/",
+      "published": "2026-10-30T15:00:01+00:00",
+      "age_hours": 3,
       "snippet": "&#32;"
     }
   ]
